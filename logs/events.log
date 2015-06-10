@@ -65,3 +65,1332 @@
 2015-06-09 12:29:22 - Weather_Humidity state updated to 32
 2015-06-09 12:29:23 - Weather_Temperature state updated to 19
 2015-06-09 12:29:23 - Weather_LastUpdate state updated to 2015-06-09T12:29:23
+2015-06-09 12:41:46 - Weather_Humidity state updated to 32
+2015-06-09 12:41:46 - Date state updated to 2015-06-09T12:41:46
+2015-06-09 12:41:46 - Weather_Temperature state updated to 19
+2015-06-09 12:41:53 - DemoLocation state updated to 52.52°N, 13.40°W, 0.00 m
+2015-06-09 12:41:53 - Temperature_GF_Corridor state updated to 19.30000000
+2015-06-09 12:41:53 - Temperature_GF_Toilet state updated to 20.80000000
+2015-06-09 12:41:53 - Temperature_GF_Living state updated to 22.00000000
+2015-06-09 12:41:53 - Temperature_GF_Kitchen state updated to 19.90000000
+2015-06-09 12:41:53 - Temperature_FF_Bath state updated to 20.80000000
+2015-06-09 12:41:53 - Temperature_FF_Office state updated to 21.70000000
+2015-06-09 12:41:53 - Temperature_FF_Child state updated to 18.60000000
+2015-06-09 12:41:53 - Temperature_FF_Bed state updated to 19.80000000
+2015-06-09 12:41:53 - Weather_Temp_Max state updated to 19
+2015-06-09 12:41:53 - Weather_Temp_Min state updated to 19
+2015-06-09 12:42:47 - Weather_Humidity state updated to 32
+2015-06-09 12:42:47 - Weather_Temperature state updated to 19
+2015-06-09 12:42:47 - Weather_LastUpdate state updated to 2015-06-09T12:42:47
+2015-06-09 12:43:47 - Weather_Humidity state updated to 32
+2015-06-09 12:43:48 - Weather_Temperature state updated to 19
+2015-06-09 12:43:48 - Weather_LastUpdate state updated to 2015-06-09T12:43:48
+2015-06-09 12:44:49 - Weather_Humidity state updated to 32
+2015-06-09 12:44:49 - Weather_Temperature state updated to 19
+2015-06-09 12:44:49 - Weather_LastUpdate state updated to 2015-06-09T12:44:49
+2015-06-09 12:45:00 - Temperature_GF_Corridor state updated to 19.60000000
+2015-06-09 12:45:00 - Temperature_GF_Toilet state updated to 21.40000000
+2015-06-09 12:45:00 - Temperature_GF_Living state updated to 21.60000000
+2015-06-09 12:45:00 - Temperature_GF_Kitchen state updated to 17.80000000
+2015-06-09 12:45:00 - Temperature_FF_Bath state updated to 17.90000000
+2015-06-09 12:45:00 - Temperature_FF_Office state updated to 20.10000000
+2015-06-09 12:45:00 - Temperature_FF_Child state updated to 18.00000000
+2015-06-09 12:45:00 - Temperature_FF_Bed state updated to 18.40000000
+2015-06-09 12:45:50 - Weather_Humidity state updated to 32
+2015-06-09 12:45:50 - Weather_Temperature state updated to 19
+2015-06-09 12:45:50 - Weather_LastUpdate state updated to 2015-06-09T12:45:50
+2015-06-09 12:46:50 - Weather_Humidity state updated to 32
+2015-06-09 12:46:50 - Weather_Temperature state updated to 19
+2015-06-09 12:46:50 - Weather_LastUpdate state updated to 2015-06-09T12:46:50
+2015-06-09 12:47:51 - Weather_Humidity state updated to 32
+2015-06-09 12:47:51 - Weather_Temperature state updated to 19
+2015-06-09 12:47:51 - Weather_LastUpdate state updated to 2015-06-09T12:47:51
+2015-06-09 12:48:51 - Weather_Humidity state updated to 32
+2015-06-09 12:48:52 - Weather_Temperature state updated to 19
+2015-06-09 12:48:52 - Weather_LastUpdate state updated to 2015-06-09T12:48:52
+2015-06-09 12:49:52 - Weather_Humidity state updated to 32
+2015-06-09 12:49:52 - Weather_Temperature state updated to 19
+2015-06-09 12:49:52 - Weather_LastUpdate state updated to 2015-06-09T12:49:52
+2015-06-09 12:50:00 - Temperature_GF_Corridor state updated to 19.50000000
+2015-06-09 12:50:00 - Temperature_GF_Toilet state updated to 18.40000000
+2015-06-09 12:50:00 - Temperature_GF_Living state updated to 19.40000000
+2015-06-09 12:50:00 - Temperature_GF_Kitchen state updated to 21.60000000
+2015-06-09 12:50:00 - Temperature_FF_Bath state updated to 19.30000000
+2015-06-09 12:50:00 - Temperature_FF_Office state updated to 22.10000000
+2015-06-09 12:50:00 - Temperature_FF_Child state updated to 18.00000000
+2015-06-09 12:50:00 - Temperature_FF_Bed state updated to 22.20000000
+2015-06-09 12:50:39 - Light_GF_Living_Table received command OFF
+2015-06-09 12:50:39 - Light_GF_Corridor_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_GF_Kitchen_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_GF_Kitchen_Table received command OFF
+2015-06-09 12:50:39 - Light_GF_Corridor_Wardrobe received command OFF
+2015-06-09 12:50:39 - Light_GF_Toilet_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_GF_Toilet_Mirror received command OFF
+2015-06-09 12:50:39 - Light_FF_Bath_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_FF_Bath_Mirror received command OFF
+2015-06-09 12:50:39 - Light_FF_Corridor_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_FF_Office_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_FF_Child_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_FF_Bed_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_C_Corridor_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_C_Staircase received command OFF
+2015-06-09 12:50:39 - Light_C_Washing_Ceiling received command OFF
+2015-06-09 12:50:39 - Light_C_Workshop received command OFF
+2015-06-09 12:50:39 - Light_Outdoor_Garage received command OFF
+2015-06-09 12:50:39 - Light_Outdoor_Terrace received command OFF
+2015-06-09 12:50:39 - Light_Outdoor_Frontdoor received command OFF
+2015-06-09 12:50:39 - Lights received command OFF
+2015-06-09 12:50:40 - Light_GF_Living_Table received command OFF
+2015-06-09 12:50:40 - Light_GF_Corridor_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_GF_Kitchen_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_GF_Kitchen_Table received command OFF
+2015-06-09 12:50:40 - Light_GF_Corridor_Wardrobe received command OFF
+2015-06-09 12:50:40 - Light_GF_Toilet_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_GF_Toilet_Mirror received command OFF
+2015-06-09 12:50:40 - Light_FF_Bath_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_FF_Bath_Mirror received command OFF
+2015-06-09 12:50:40 - Light_FF_Corridor_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_FF_Office_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_FF_Child_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_FF_Bed_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_C_Corridor_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_C_Staircase received command OFF
+2015-06-09 12:50:40 - Light_C_Washing_Ceiling received command OFF
+2015-06-09 12:50:40 - Light_C_Workshop received command OFF
+2015-06-09 12:50:40 - Light_Outdoor_Garage received command OFF
+2015-06-09 12:50:40 - Light_Outdoor_Terrace received command OFF
+2015-06-09 12:50:40 - Light_Outdoor_Frontdoor received command OFF
+2015-06-09 12:50:40 - Lights received command OFF
+2015-06-09 12:50:52 - Weather_Humidity state updated to 32
+2015-06-09 12:50:53 - Weather_Temperature state updated to 19
+2015-06-09 12:50:53 - Weather_LastUpdate state updated to 2015-06-09T12:50:53
+2015-06-09 12:51:53 - Weather_Humidity state updated to 32
+2015-06-09 12:51:54 - Weather_Temperature state updated to 19
+2015-06-09 12:51:54 - Weather_LastUpdate state updated to 2015-06-09T12:51:54
+2015-06-09 12:52:02 - Scene_General received command 0
+2015-06-09 12:52:06 - Scene_General received command 3
+2015-06-09 12:52:53 - Weather_Humidity state updated to 32
+2015-06-09 12:52:55 - Weather_Temperature state updated to 19
+2015-06-09 12:52:55 - Weather_LastUpdate state updated to 2015-06-09T12:52:55
+2015-06-09 12:53:54 - Weather_Humidity state updated to 32
+2015-06-09 12:53:55 - Weather_Temperature state updated to 19
+2015-06-09 12:53:55 - Weather_LastUpdate state updated to 2015-06-09T12:53:55
+2015-06-09 12:54:55 - Weather_Humidity state updated to 32
+2015-06-09 12:54:56 - Weather_Temperature state updated to 19
+2015-06-09 12:54:56 - Weather_LastUpdate state updated to 2015-06-09T12:54:56
+2015-06-09 12:55:00 - Temperature_GF_Corridor state updated to 20.10000000
+2015-06-09 12:55:00 - Temperature_GF_Toilet state updated to 19.30000000
+2015-06-09 12:55:00 - Temperature_GF_Living state updated to 21.60000000
+2015-06-09 12:55:00 - Temperature_GF_Kitchen state updated to 22.30000000
+2015-06-09 12:55:00 - Temperature_FF_Bath state updated to 17.70000000
+2015-06-09 12:55:00 - Temperature_FF_Office state updated to 19.20000000
+2015-06-09 12:55:00 - Temperature_FF_Child state updated to 19.00000000
+2015-06-09 12:55:00 - Temperature_FF_Bed state updated to 20.60000000
+2015-06-09 12:55:55 - Weather_Humidity state updated to 32
+2015-06-09 12:55:56 - Weather_Temperature state updated to 19
+2015-06-09 12:55:56 - Weather_LastUpdate state updated to 2015-06-09T12:55:56
+2015-06-09 12:56:47 - Date state updated to 2015-06-09T12:56:47
+2015-06-09 12:56:56 - Weather_Humidity state updated to 32
+2015-06-09 12:56:57 - Weather_Temperature state updated to 19
+2015-06-09 12:56:57 - Weather_LastUpdate state updated to 2015-06-09T12:56:57
+2015-06-09 12:57:56 - Weather_Humidity state updated to 32
+2015-06-09 12:57:58 - Weather_Temperature state updated to 19
+2015-06-09 12:57:58 - Weather_LastUpdate state updated to 2015-06-09T12:57:58
+2015-06-09 12:58:57 - Weather_Humidity state updated to 32
+2015-06-09 12:58:58 - Weather_Temperature state updated to 19
+2015-06-09 12:58:58 - Weather_LastUpdate state updated to 2015-06-09T12:58:58
+2015-06-09 12:59:58 - Weather_Humidity state updated to 32
+2015-06-09 12:59:59 - Weather_Temperature state updated to 19
+2015-06-09 12:59:59 - Weather_LastUpdate state updated to 2015-06-09T12:59:59
+2015-06-09 13:00:00 - Temperature_GF_Corridor state updated to 20.70000000
+2015-06-09 13:00:00 - Temperature_GF_Toilet state updated to 22.10000000
+2015-06-09 13:00:00 - Temperature_GF_Living state updated to 21.40000000
+2015-06-09 13:00:00 - Temperature_GF_Kitchen state updated to 20.80000000
+2015-06-09 13:00:00 - Temperature_FF_Bath state updated to 17.70000000
+2015-06-09 13:00:00 - Temperature_FF_Office state updated to 21.60000000
+2015-06-09 13:00:00 - Temperature_FF_Child state updated to 18.50000000
+2015-06-09 13:00:00 - Temperature_FF_Bed state updated to 18.20000000
+2015-06-09 13:00:58 - Weather_Humidity state updated to 32
+2015-06-09 13:00:59 - Weather_Temperature state updated to 19
+2015-06-09 13:00:59 - Weather_LastUpdate state updated to 2015-06-09T13:00:59
+2015-06-09 13:01:59 - Weather_Humidity state updated to 30
+2015-06-09 13:01:59 - Weather_Humidex state updated to 17.1016957459246772
+2015-06-09 13:02:00 - Weather_Temperature state updated to 19
+2015-06-09 13:02:00 - Weather_LastUpdate state updated to 2015-06-09T13:02:00
+2015-06-09 13:02:59 - Weather_Humidity state updated to 30
+2015-06-09 13:03:01 - Weather_Temperature state updated to 20
+2015-06-09 13:03:01 - Weather_LastUpdate state updated to 2015-06-09T13:03:01
+2015-06-09 13:03:01 - Weather_Humidex state updated to 18.3358300977977520
+2015-06-09 13:03:01 - Weather_Temp_Max state updated to 20
+2015-06-09 13:03:01 - Weather_Temp_Min state updated to 19
+2015-06-09 13:03:16 - Volume received command DECREASE
+2015-06-09 13:03:16 - Volume received command DECREASE
+2015-06-09 13:03:16 - Volume state updated to 24.32
+2015-06-09 13:03:16 - Volume state updated to 24.32
+2015-06-09 13:03:26 - Volume received command DECREASE
+2015-06-09 13:03:26 - Volume state updated to 19.456
+2015-06-09 13:03:26 - Volume received command DECREASE
+2015-06-09 13:03:26 - Volume state updated to 15.564799
+2015-06-09 13:03:27 - Volume received command DECREASE
+2015-06-09 13:03:27 - Volume state updated to 12.451839
+2015-06-09 13:03:27 - Volume received command DECREASE
+2015-06-09 13:03:27 - Volume state updated to 9.961472
+2015-06-09 13:03:27 - Volume received command DECREASE
+2015-06-09 13:03:27 - Volume state updated to 7.9691777
+2015-06-09 13:03:27 - Volume received command DECREASE
+2015-06-09 13:03:27 - Volume state updated to 6.375342
+2015-06-09 13:03:27 - Volume received command DECREASE
+2015-06-09 13:03:27 - Volume state updated to 5.1002736
+2015-06-09 13:03:28 - Volume received command DECREASE
+2015-06-09 13:03:28 - Volume state updated to 4.0802193
+2015-06-09 13:03:28 - Volume received command DECREASE
+2015-06-09 13:03:28 - Volume state updated to 2.2641754
+2015-06-09 13:03:30 - Volume received command INCREASE
+2015-06-09 13:03:30 - Volume state updated to 3.7170105
+2015-06-09 13:03:30 - Volume received command INCREASE
+2015-06-09 13:03:30 - Volume state updated to 5.460413
+2015-06-09 13:03:31 - Volume received command INCREASE
+2015-06-09 13:03:31 - Volume state updated to 6.552496
+2015-06-09 13:03:31 - Volume received command INCREASE
+2015-06-09 13:03:31 - Volume state updated to 7.8629956
+2015-06-09 13:03:31 - Volume received command INCREASE
+2015-06-09 13:03:31 - Volume state updated to 9.435595
+2015-06-09 13:03:32 - Volume received command INCREASE
+2015-06-09 13:03:32 - Volume state updated to 11.322715
+2015-06-09 13:04:00 - Weather_Humidity state updated to 30
+2015-06-09 13:04:01 - Weather_Temperature state updated to 20
+2015-06-09 13:04:01 - Weather_LastUpdate state updated to 2015-06-09T13:04:01
+2015-06-09 13:05:00 - Temperature_GF_Corridor state updated to 22.40000000
+2015-06-09 13:05:00 - Temperature_GF_Toilet state updated to 19.00000000
+2015-06-09 13:05:00 - Temperature_GF_Living state updated to 22.40000000
+2015-06-09 13:05:00 - Temperature_GF_Kitchen state updated to 19.00000000
+2015-06-09 13:05:00 - Temperature_FF_Bath state updated to 21.60000000
+2015-06-09 13:05:00 - Temperature_FF_Office state updated to 21.20000000
+2015-06-09 13:05:00 - Temperature_FF_Child state updated to 18.50000000
+2015-06-09 13:05:00 - Temperature_FF_Bed state updated to 21.30000000
+2015-06-09 13:05:01 - Weather_Humidity state updated to 30
+2015-06-09 13:05:02 - Weather_Temperature state updated to 20
+2015-06-09 13:05:02 - Weather_LastUpdate state updated to 2015-06-09T13:05:02
+2015-06-09 13:06:01 - Weather_Humidity state updated to 30
+2015-06-09 13:06:02 - Weather_Temperature state updated to 20
+2015-06-09 13:06:02 - Weather_LastUpdate state updated to 2015-06-09T13:06:02
+2015-06-09 13:07:02 - Weather_Humidity state updated to 30
+2015-06-09 13:07:03 - Weather_Temperature state updated to 20
+2015-06-09 13:07:03 - Weather_LastUpdate state updated to 2015-06-09T13:07:03
+2015-06-09 13:08:02 - Weather_Humidity state updated to 30
+2015-06-09 13:08:04 - Weather_Temperature state updated to 20
+2015-06-09 13:08:04 - Weather_LastUpdate state updated to 2015-06-09T13:08:04
+2015-06-09 13:09:03 - Weather_Humidity state updated to 30
+2015-06-09 13:09:04 - Weather_Temperature state updated to 20
+2015-06-09 13:09:04 - Weather_LastUpdate state updated to 2015-06-09T13:09:04
+2015-06-09 13:10:00 - Temperature_GF_Corridor state updated to 20.90000000
+2015-06-09 13:10:00 - Temperature_GF_Toilet state updated to 21.40000000
+2015-06-09 13:10:00 - Temperature_GF_Living state updated to 19.80000000
+2015-06-09 13:10:00 - Temperature_GF_Kitchen state updated to 18.20000000
+2015-06-09 13:10:00 - Temperature_FF_Bath state updated to 18.20000000
+2015-06-09 13:10:00 - Temperature_FF_Office state updated to 19.30000000
+2015-06-09 13:10:00 - Temperature_FF_Child state updated to 18.10000000
+2015-06-09 13:10:00 - Temperature_FF_Bed state updated to 22.00000000
+2015-06-09 13:10:04 - Weather_Humidity state updated to 30
+2015-06-09 13:10:05 - Weather_Temperature state updated to 20
+2015-06-09 13:10:05 - Weather_LastUpdate state updated to 2015-06-09T13:10:05
+2015-06-09 13:11:04 - Weather_Humidity state updated to 30
+2015-06-09 13:11:05 - Weather_Temperature state updated to 20
+2015-06-09 13:11:05 - Weather_LastUpdate state updated to 2015-06-09T13:11:05
+2015-06-09 13:11:47 - Date state updated to 2015-06-09T13:11:47
+2015-06-09 13:12:05 - Weather_Humidity state updated to 30
+2015-06-09 13:12:06 - Weather_Temperature state updated to 20
+2015-06-09 13:12:06 - Weather_LastUpdate state updated to 2015-06-09T13:12:06
+2015-06-09 13:13:05 - Weather_Humidity state updated to 30
+2015-06-09 13:13:07 - Weather_Temperature state updated to 20
+2015-06-09 13:13:07 - Weather_LastUpdate state updated to 2015-06-09T13:13:07
+2015-06-09 13:14:06 - Weather_Humidity state updated to 30
+2015-06-09 13:14:07 - Weather_Temperature state updated to 20
+2015-06-09 13:14:07 - Weather_LastUpdate state updated to 2015-06-09T13:14:07
+2015-06-09 13:15:00 - Temperature_GF_Corridor state updated to 19.70000000
+2015-06-09 13:15:00 - Temperature_GF_Toilet state updated to 22.20000000
+2015-06-09 13:15:00 - Temperature_GF_Living state updated to 18.80000000
+2015-06-09 13:15:00 - Temperature_GF_Kitchen state updated to 20.10000000
+2015-06-09 13:15:00 - Temperature_FF_Bath state updated to 22.40000000
+2015-06-09 13:15:00 - Temperature_FF_Office state updated to 21.20000000
+2015-06-09 13:15:00 - Temperature_FF_Child state updated to 20.60000000
+2015-06-09 13:15:00 - Temperature_FF_Bed state updated to 21.30000000
+2015-06-09 13:15:06 - Weather_Humidity state updated to 30
+2015-06-09 13:15:08 - Weather_Temperature state updated to 20
+2015-06-09 13:15:08 - Weather_LastUpdate state updated to 2015-06-09T13:15:08
+2015-06-09 13:16:07 - Weather_Humidity state updated to 30
+2015-06-09 13:16:08 - Weather_Temperature state updated to 20
+2015-06-09 13:16:08 - Weather_LastUpdate state updated to 2015-06-09T13:16:08
+2015-06-09 13:17:07 - Weather_Humidity state updated to 30
+2015-06-09 13:17:08 - Weather_Temperature state updated to 20
+2015-06-09 13:17:08 - Weather_LastUpdate state updated to 2015-06-09T13:17:08
+2015-06-09 13:18:08 - Weather_Humidity state updated to 30
+2015-06-09 13:18:09 - Weather_Temperature state updated to 20
+2015-06-09 13:18:09 - Weather_LastUpdate state updated to 2015-06-09T13:18:09
+2015-06-09 13:19:08 - Weather_Humidity state updated to 30
+2015-06-09 13:19:10 - Weather_Temperature state updated to 20
+2015-06-09 13:19:10 - Weather_LastUpdate state updated to 2015-06-09T13:19:10
+2015-06-09 13:20:00 - Temperature_GF_Corridor state updated to 21.70000000
+2015-06-09 13:20:00 - Temperature_GF_Toilet state updated to 19.20000000
+2015-06-09 13:20:00 - Temperature_GF_Living state updated to 19.70000000
+2015-06-09 13:20:00 - Temperature_GF_Kitchen state updated to 21.60000000
+2015-06-09 13:20:00 - Temperature_FF_Bath state updated to 22.10000000
+2015-06-09 13:20:00 - Temperature_FF_Office state updated to 19.30000000
+2015-06-09 13:20:00 - Temperature_FF_Child state updated to 19.50000000
+2015-06-09 13:20:00 - Temperature_FF_Bed state updated to 22.10000000
+2015-06-09 13:20:09 - Weather_Humidity state updated to 30
+2015-06-09 13:20:10 - Weather_Temperature state updated to 20
+2015-06-09 13:20:10 - Weather_LastUpdate state updated to 2015-06-09T13:20:10
+2015-06-09 13:21:10 - Weather_Humidity state updated to 30
+2015-06-09 13:21:11 - Weather_Temperature state updated to 20
+2015-06-09 13:21:11 - Weather_LastUpdate state updated to 2015-06-09T13:21:11
+2015-06-09 13:22:10 - Weather_Humidity state updated to 30
+2015-06-09 13:22:11 - Weather_Temperature state updated to 20
+2015-06-09 13:22:11 - Weather_LastUpdate state updated to 2015-06-09T13:22:11
+2015-06-09 13:23:11 - Weather_Humidity state updated to 30
+2015-06-09 13:23:12 - Weather_Temperature state updated to 20
+2015-06-09 13:23:12 - Weather_LastUpdate state updated to 2015-06-09T13:23:12
+2015-06-09 13:24:11 - Weather_Humidity state updated to 30
+2015-06-09 13:24:13 - Weather_Temperature state updated to 20
+2015-06-09 13:24:13 - Weather_LastUpdate state updated to 2015-06-09T13:24:13
+2015-06-09 13:25:00 - Temperature_GF_Corridor state updated to 18.30000000
+2015-06-09 13:25:00 - Temperature_GF_Toilet state updated to 18.80000000
+2015-06-09 13:25:00 - Temperature_GF_Living state updated to 21.70000000
+2015-06-09 13:25:00 - Temperature_GF_Kitchen state updated to 19.20000000
+2015-06-09 13:25:00 - Temperature_FF_Bath state updated to 21.30000000
+2015-06-09 13:25:00 - Temperature_FF_Office state updated to 19.70000000
+2015-06-09 13:25:00 - Temperature_FF_Child state updated to 22.40000000
+2015-06-09 13:25:00 - Temperature_FF_Bed state updated to 18.70000000
+2015-06-09 13:25:12 - Weather_Humidity state updated to 30
+2015-06-09 13:25:13 - Weather_Temperature state updated to 20
+2015-06-09 13:25:13 - Weather_LastUpdate state updated to 2015-06-09T13:25:13
+2015-06-09 13:26:12 - Weather_Humidity state updated to 30
+2015-06-09 13:26:14 - Weather_Temperature state updated to 20
+2015-06-09 13:26:14 - Weather_LastUpdate state updated to 2015-06-09T13:26:14
+2015-06-09 13:26:47 - Date state updated to 2015-06-09T13:26:47
+2015-06-09 13:27:13 - Weather_Humidity state updated to 30
+2015-06-09 13:27:14 - Weather_Temperature state updated to 20
+2015-06-09 13:27:14 - Weather_LastUpdate state updated to 2015-06-09T13:27:14
+2015-06-09 13:28:14 - Weather_Humidity state updated to 30
+2015-06-09 13:28:15 - Weather_Temperature state updated to 20
+2015-06-09 13:28:15 - Weather_LastUpdate state updated to 2015-06-09T13:28:15
+2015-06-09 13:29:14 - Weather_Humidity state updated to 30
+2015-06-09 13:29:15 - Weather_Temperature state updated to 20
+2015-06-09 13:29:15 - Weather_LastUpdate state updated to 2015-06-09T13:29:15
+2015-06-09 13:30:00 - Temperature_GF_Corridor state updated to 21.20000000
+2015-06-09 13:30:00 - Temperature_GF_Toilet state updated to 22.10000000
+2015-06-09 13:30:00 - Temperature_GF_Living state updated to 17.60000000
+2015-06-09 13:30:00 - Temperature_GF_Kitchen state updated to 20.80000000
+2015-06-09 13:30:00 - Temperature_FF_Bath state updated to 18.00000000
+2015-06-09 13:30:00 - Temperature_FF_Office state updated to 20.90000000
+2015-06-09 13:30:00 - Temperature_FF_Child state updated to 22.00000000
+2015-06-09 13:30:00 - Temperature_FF_Bed state updated to 18.80000000
+2015-06-09 13:30:14 - Weather_Humidity state updated to 30
+2015-06-09 13:30:16 - Weather_Temperature state updated to 20
+2015-06-09 13:30:16 - Weather_LastUpdate state updated to 2015-06-09T13:30:16
+2015-06-09 13:31:16 - Weather_Humidity state updated to 30
+2015-06-09 13:31:17 - Weather_Temperature state updated to 20
+2015-06-09 13:31:17 - Weather_LastUpdate state updated to 2015-06-09T13:31:17
+2015-06-09 13:32:16 - Weather_Humidity state updated to 30
+2015-06-09 13:32:17 - Weather_Temperature state updated to 20
+2015-06-09 13:32:17 - Weather_LastUpdate state updated to 2015-06-09T13:32:17
+2015-06-09 13:33:16 - Weather_Humidity state updated to 30
+2015-06-09 13:33:18 - Weather_Temperature state updated to 20
+2015-06-09 13:33:18 - Weather_LastUpdate state updated to 2015-06-09T13:33:18
+2015-06-09 13:34:17 - Weather_Humidity state updated to 30
+2015-06-09 13:34:18 - Weather_Temperature state updated to 20
+2015-06-09 13:34:18 - Weather_LastUpdate state updated to 2015-06-09T13:34:18
+2015-06-09 13:35:00 - Temperature_GF_Corridor state updated to 18.70000000
+2015-06-09 13:35:00 - Temperature_GF_Toilet state updated to 21.80000000
+2015-06-09 13:35:00 - Temperature_GF_Living state updated to 21.80000000
+2015-06-09 13:35:00 - Temperature_GF_Kitchen state updated to 20.60000000
+2015-06-09 13:35:00 - Temperature_FF_Bath state updated to 19.60000000
+2015-06-09 13:35:00 - Temperature_FF_Office state updated to 18.50000000
+2015-06-09 13:35:00 - Temperature_FF_Child state updated to 19.70000000
+2015-06-09 13:35:00 - Temperature_FF_Bed state updated to 17.70000000
+2015-06-09 13:35:18 - Weather_Humidity state updated to 30
+2015-06-09 13:35:19 - Weather_Temperature state updated to 20
+2015-06-09 13:35:19 - Weather_LastUpdate state updated to 2015-06-09T13:35:19
+2015-06-09 13:36:18 - Weather_Humidity state updated to 30
+2015-06-09 13:36:19 - Weather_Temperature state updated to 20
+2015-06-09 13:36:19 - Weather_LastUpdate state updated to 2015-06-09T13:36:19
+2015-06-09 13:37:19 - Weather_Humidity state updated to 30
+2015-06-09 13:37:20 - Weather_Temperature state updated to 20
+2015-06-09 13:37:20 - Weather_LastUpdate state updated to 2015-06-09T13:37:20
+2015-06-09 13:38:19 - Weather_Humidity state updated to 30
+2015-06-09 13:38:20 - Weather_Temperature state updated to 20
+2015-06-09 13:38:20 - Weather_LastUpdate state updated to 2015-06-09T13:38:20
+2015-06-09 13:39:20 - Weather_Humidity state updated to 32
+2015-06-09 13:39:20 - Weather_Humidex state updated to 18.5952558109842688
+2015-06-09 13:39:21 - Weather_Temperature state updated to 19
+2015-06-09 13:39:21 - Weather_LastUpdate state updated to 2015-06-09T13:39:21
+2015-06-09 13:39:21 - Weather_Temp_Max state updated to 20
+2015-06-09 13:39:21 - Weather_Temp_Min state updated to 19
+2015-06-09 13:39:21 - Weather_Humidex state updated to 17.3455125034307668
+2015-06-09 13:40:00 - Temperature_GF_Corridor state updated to 18.40000000
+2015-06-09 13:40:00 - Temperature_GF_Toilet state updated to 19.00000000
+2015-06-09 13:40:00 - Temperature_GF_Living state updated to 19.20000000
+2015-06-09 13:40:00 - Temperature_GF_Kitchen state updated to 20.20000000
+2015-06-09 13:40:00 - Temperature_FF_Bath state updated to 20.60000000
+2015-06-09 13:40:00 - Temperature_FF_Office state updated to 19.90000000
+2015-06-09 13:40:00 - Temperature_FF_Child state updated to 19.20000000
+2015-06-09 13:40:00 - Temperature_FF_Bed state updated to 19.10000000
+2015-06-09 13:40:20 - Weather_Humidity state updated to 32
+2015-06-09 13:40:21 - Weather_Temperature state updated to 19
+2015-06-09 13:40:21 - Weather_LastUpdate state updated to 2015-06-09T13:40:21
+2015-06-09 13:41:21 - Weather_Humidity state updated to 32
+2015-06-09 13:41:22 - Weather_Temperature state updated to 19
+2015-06-09 13:41:22 - Weather_LastUpdate state updated to 2015-06-09T13:41:22
+2015-06-09 13:41:47 - Date state updated to 2015-06-09T13:41:47
+2015-06-09 13:42:21 - Weather_Humidity state updated to 32
+2015-06-09 13:42:22 - Weather_Temperature state updated to 19
+2015-06-09 13:42:22 - Weather_LastUpdate state updated to 2015-06-09T13:42:22
+2015-06-09 13:43:22 - Weather_Humidity state updated to 32
+2015-06-09 13:43:23 - Weather_Temperature state updated to 19
+2015-06-09 13:43:23 - Weather_LastUpdate state updated to 2015-06-09T13:43:23
+2015-06-09 13:44:22 - Weather_Humidity state updated to 32
+2015-06-09 13:44:23 - Weather_Temperature state updated to 19
+2015-06-09 13:44:23 - Weather_LastUpdate state updated to 2015-06-09T13:44:23
+2015-06-09 13:45:00 - Temperature_GF_Corridor state updated to 21.60000000
+2015-06-09 13:45:00 - Temperature_GF_Toilet state updated to 17.90000000
+2015-06-09 13:45:00 - Temperature_GF_Living state updated to 18.60000000
+2015-06-09 13:45:00 - Temperature_GF_Kitchen state updated to 19.80000000
+2015-06-09 13:45:00 - Temperature_FF_Bath state updated to 18.60000000
+2015-06-09 13:45:00 - Temperature_FF_Office state updated to 22.10000000
+2015-06-09 13:45:00 - Temperature_FF_Child state updated to 22.30000000
+2015-06-09 13:45:00 - Temperature_FF_Bed state updated to 18.20000000
+2015-06-09 13:45:23 - Weather_Humidity state updated to 32
+2015-06-09 13:45:24 - Weather_Temperature state updated to 19
+2015-06-09 13:45:24 - Weather_LastUpdate state updated to 2015-06-09T13:45:24
+2015-06-09 13:46:23 - Weather_Humidity state updated to 32
+2015-06-09 13:46:24 - Weather_Temperature state updated to 19
+2015-06-09 13:46:24 - Weather_LastUpdate state updated to 2015-06-09T13:46:24
+2015-06-09 13:47:24 - Weather_Humidity state updated to 32
+2015-06-09 13:47:25 - Weather_Temperature state updated to 19
+2015-06-09 13:47:25 - Weather_LastUpdate state updated to 2015-06-09T13:47:25
+2015-06-09 13:48:24 - Weather_Humidity state updated to 32
+2015-06-09 13:48:26 - Weather_Temperature state updated to 19
+2015-06-09 13:48:26 - Weather_LastUpdate state updated to 2015-06-09T13:48:26
+2015-06-09 13:49:25 - Weather_Humidity state updated to 32
+2015-06-09 13:49:26 - Weather_Temperature state updated to 19
+2015-06-09 13:49:26 - Weather_LastUpdate state updated to 2015-06-09T13:49:26
+2015-06-09 13:50:00 - Temperature_GF_Corridor state updated to 19.10000000
+2015-06-09 13:50:00 - Temperature_GF_Toilet state updated to 19.30000000
+2015-06-09 13:50:00 - Temperature_GF_Living state updated to 20.30000000
+2015-06-09 13:50:00 - Temperature_GF_Kitchen state updated to 21.00000000
+2015-06-09 13:50:00 - Temperature_FF_Bath state updated to 21.00000000
+2015-06-09 13:50:00 - Temperature_FF_Office state updated to 19.10000000
+2015-06-09 13:50:00 - Temperature_FF_Child state updated to 22.00000000
+2015-06-09 13:50:00 - Temperature_FF_Bed state updated to 20.00000000
+2015-06-09 13:50:26 - Weather_Humidity state updated to 32
+2015-06-09 13:50:27 - Weather_Temperature state updated to 19
+2015-06-09 13:50:27 - Weather_LastUpdate state updated to 2015-06-09T13:50:27
+2015-06-09 13:51:26 - Weather_Humidity state updated to 32
+2015-06-09 13:51:28 - Weather_Temperature state updated to 19
+2015-06-09 13:51:28 - Weather_LastUpdate state updated to 2015-06-09T13:51:28
+2015-06-09 13:52:28 - Weather_Humidity state updated to 32
+2015-06-09 13:52:29 - Weather_Temperature state updated to 19
+2015-06-09 13:52:29 - Weather_LastUpdate state updated to 2015-06-09T13:52:29
+2015-06-09 13:53:28 - Weather_Humidity state updated to 32
+2015-06-09 13:53:29 - Weather_Temperature state updated to 19
+2015-06-09 13:53:29 - Weather_LastUpdate state updated to 2015-06-09T13:53:29
+2015-06-09 13:54:29 - Weather_Humidity state updated to 32
+2015-06-09 13:54:30 - Weather_Temperature state updated to 19
+2015-06-09 13:54:30 - Weather_LastUpdate state updated to 2015-06-09T13:54:30
+2015-06-09 13:55:00 - Temperature_GF_Corridor state updated to 19.50000000
+2015-06-09 13:55:00 - Temperature_GF_Toilet state updated to 22.00000000
+2015-06-09 13:55:00 - Temperature_GF_Living state updated to 19.30000000
+2015-06-09 13:55:00 - Temperature_GF_Kitchen state updated to 21.40000000
+2015-06-09 13:55:00 - Temperature_FF_Bath state updated to 20.20000000
+2015-06-09 13:55:00 - Temperature_FF_Office state updated to 22.10000000
+2015-06-09 13:55:00 - Temperature_FF_Child state updated to 18.40000000
+2015-06-09 13:55:00 - Temperature_FF_Bed state updated to 21.80000000
+2015-06-09 13:55:29 - Weather_Humidity state updated to 32
+2015-06-09 13:55:30 - Weather_Temperature state updated to 19
+2015-06-09 13:55:30 - Weather_LastUpdate state updated to 2015-06-09T13:55:30
+2015-06-09 13:56:30 - Weather_Humidity state updated to 32
+2015-06-09 13:56:31 - Weather_Temperature state updated to 19
+2015-06-09 13:56:31 - Weather_LastUpdate state updated to 2015-06-09T13:56:31
+2015-06-09 13:56:48 - Date state updated to 2015-06-09T13:56:48
+2015-06-09 13:57:30 - Weather_Humidity state updated to 32
+2015-06-09 13:57:32 - Weather_Temperature state updated to 19
+2015-06-09 13:57:32 - Weather_LastUpdate state updated to 2015-06-09T13:57:32
+2015-06-09 13:58:31 - Weather_Humidity state updated to 32
+2015-06-09 13:58:33 - Weather_Temperature state updated to 19
+2015-06-09 13:58:33 - Weather_LastUpdate state updated to 2015-06-09T13:58:33
+2015-06-09 13:59:32 - Weather_Humidity state updated to 32
+2015-06-09 13:59:33 - Weather_Temperature state updated to 19
+2015-06-09 13:59:33 - Weather_LastUpdate state updated to 2015-06-09T13:59:33
+2015-06-09 14:00:00 - Temperature_GF_Corridor state updated to 18.60000000
+2015-06-09 14:00:00 - Temperature_GF_Toilet state updated to 22.20000000
+2015-06-09 14:00:00 - Temperature_GF_Living state updated to 21.80000000
+2015-06-09 14:00:00 - Temperature_GF_Kitchen state updated to 20.00000000
+2015-06-09 14:00:00 - Temperature_FF_Bath state updated to 17.70000000
+2015-06-09 14:00:00 - Temperature_FF_Office state updated to 20.50000000
+2015-06-09 14:00:00 - Temperature_FF_Child state updated to 18.50000000
+2015-06-09 14:00:00 - Temperature_FF_Bed state updated to 17.70000000
+2015-06-09 14:00:33 - Weather_Humidity state updated to 32
+2015-06-09 14:00:34 - Weather_Temperature state updated to 19
+2015-06-09 14:00:34 - Weather_LastUpdate state updated to 2015-06-09T14:00:34
+2015-06-09 14:01:33 - Weather_Humidity state updated to 32
+2015-06-09 14:01:34 - Weather_Temperature state updated to 19
+2015-06-09 14:01:34 - Weather_LastUpdate state updated to 2015-06-09T14:01:34
+2015-06-09 14:02:33 - Weather_Humidity state updated to 32
+2015-06-09 14:02:35 - Weather_Temperature state updated to 19
+2015-06-09 14:02:35 - Weather_LastUpdate state updated to 2015-06-09T14:02:35
+2015-06-09 14:03:34 - Weather_Humidity state updated to 34
+2015-06-09 14:03:34 - Weather_Humidex state updated to 17.5893292609368564
+2015-06-09 14:03:35 - Weather_Temperature state updated to 19
+2015-06-09 14:03:35 - Weather_LastUpdate state updated to 2015-06-09T14:03:35
+2015-06-09 14:04:34 - Weather_Humidity state updated to 34
+2015-06-09 14:04:36 - Weather_Temperature state updated to 18
+2015-06-09 14:04:36 - Weather_LastUpdate state updated to 2015-06-09T14:04:36
+2015-06-09 14:04:36 - Weather_Temp_Max state updated to 20
+2015-06-09 14:04:36 - Weather_Temp_Min state updated to 18
+2015-06-09 14:04:36 - Weather_Humidex state updated to 16.3380523589266412
+2015-06-09 14:05:00 - Temperature_GF_Corridor state updated to 18.40000000
+2015-06-09 14:05:00 - Temperature_GF_Toilet state updated to 17.70000000
+2015-06-09 14:05:00 - Temperature_GF_Living state updated to 18.40000000
+2015-06-09 14:05:00 - Temperature_GF_Kitchen state updated to 22.50000000
+2015-06-09 14:05:00 - Temperature_FF_Bath state updated to 21.90000000
+2015-06-09 14:05:00 - Temperature_FF_Office state updated to 21.00000000
+2015-06-09 14:05:00 - Temperature_FF_Child state updated to 19.30000000
+2015-06-09 14:05:00 - Temperature_FF_Bed state updated to 19.10000000
+2015-06-09 14:05:35 - Weather_Humidity state updated to 34
+2015-06-09 14:05:36 - Weather_Temperature state updated to 18
+2015-06-09 14:05:36 - Weather_LastUpdate state updated to 2015-06-09T14:05:36
+2015-06-09 14:06:10 - Light_FF_Bath_Ceiling received command ON
+2015-06-09 14:06:17 - Light_FF_Bath_Ceiling received command OFF
+2015-06-09 14:06:36 - Weather_Humidity state updated to 34
+2015-06-09 14:06:37 - Weather_Temperature state updated to 18
+2015-06-09 14:06:37 - Weather_LastUpdate state updated to 2015-06-09T14:06:37
+2015-06-09 14:07:36 - Weather_Humidity state updated to 34
+2015-06-09 14:07:37 - Weather_Temperature state updated to 18
+2015-06-09 14:07:37 - Weather_LastUpdate state updated to 2015-06-09T14:07:37
+2015-06-09 14:08:37 - Weather_Humidity state updated to 34
+2015-06-09 14:08:38 - Weather_Temperature state updated to 18
+2015-06-09 14:08:38 - Weather_LastUpdate state updated to 2015-06-09T14:08:38
+2015-06-09 14:09:37 - Weather_Humidity state updated to 34
+2015-06-09 14:09:38 - Weather_Temperature state updated to 18
+2015-06-09 14:09:38 - Weather_LastUpdate state updated to 2015-06-09T14:09:38
+2015-06-09 14:10:00 - Temperature_GF_Corridor state updated to 21.20000000
+2015-06-09 14:10:00 - Temperature_GF_Toilet state updated to 21.90000000
+2015-06-09 14:10:00 - Temperature_GF_Living state updated to 19.10000000
+2015-06-09 14:10:00 - Temperature_GF_Kitchen state updated to 22.00000000
+2015-06-09 14:10:00 - Temperature_FF_Bath state updated to 19.00000000
+2015-06-09 14:10:00 - Temperature_FF_Office state updated to 21.40000000
+2015-06-09 14:10:00 - Temperature_FF_Child state updated to 17.60000000
+2015-06-09 14:10:00 - Temperature_FF_Bed state updated to 20.80000000
+2015-06-09 14:10:38 - Weather_Humidity state updated to 34
+2015-06-09 14:10:39 - Weather_Temperature state updated to 18
+2015-06-09 14:10:39 - Weather_LastUpdate state updated to 2015-06-09T14:10:39
+2015-06-09 14:11:38 - Weather_Humidity state updated to 34
+2015-06-09 14:11:40 - Weather_Temperature state updated to 18
+2015-06-09 14:11:40 - Weather_LastUpdate state updated to 2015-06-09T14:11:40
+2015-06-09 14:11:48 - Date state updated to 2015-06-09T14:11:48
+2015-06-09 14:12:39 - Weather_Humidity state updated to 34
+2015-06-09 14:12:40 - Weather_Temperature state updated to 18
+2015-06-09 14:12:40 - Weather_LastUpdate state updated to 2015-06-09T14:12:40
+2015-06-09 14:13:40 - Weather_Humidity state updated to 34
+2015-06-09 14:13:41 - Weather_Temperature state updated to 18
+2015-06-09 14:13:41 - Weather_LastUpdate state updated to 2015-06-09T14:13:41
+2015-06-09 14:14:04 - Light_FF_Bath_Ceiling received command ON
+2015-06-09 14:14:09 - Light_FF_Bath_Ceiling received command OFF
+2015-06-09 14:14:10 - Light_FF_Bath_Ceiling received command ON
+2015-06-09 14:14:11 - Light_FF_Bath_Ceiling received command OFF
+2015-06-09 14:14:40 - Weather_Humidity state updated to 34
+2015-06-09 14:14:41 - Weather_Temperature state updated to 18
+2015-06-09 14:14:41 - Weather_LastUpdate state updated to 2015-06-09T14:14:41
+2015-06-09 14:15:00 - Temperature_GF_Corridor state updated to 20.60000000
+2015-06-09 14:15:00 - Temperature_GF_Toilet state updated to 20.10000000
+2015-06-09 14:15:00 - Temperature_GF_Living state updated to 21.60000000
+2015-06-09 14:15:00 - Temperature_GF_Kitchen state updated to 20.20000000
+2015-06-09 14:15:00 - Temperature_FF_Bath state updated to 22.00000000
+2015-06-09 14:15:00 - Temperature_FF_Office state updated to 20.00000000
+2015-06-09 14:15:00 - Temperature_FF_Child state updated to 22.30000000
+2015-06-09 14:15:00 - Temperature_FF_Bed state updated to 18.30000000
+2015-06-09 14:15:41 - Weather_Humidity state updated to 34
+2015-06-09 14:15:42 - Weather_Temperature state updated to 18
+2015-06-09 14:15:42 - Weather_LastUpdate state updated to 2015-06-09T14:15:42
+2015-06-09 14:16:41 - Weather_Humidity state updated to 34
+2015-06-09 14:16:42 - Weather_Temperature state updated to 18
+2015-06-09 14:16:42 - Weather_LastUpdate state updated to 2015-06-09T14:16:42
+2015-06-09 14:17:42 - Weather_Humidity state updated to 34
+2015-06-09 14:17:43 - Weather_Temperature state updated to 18
+2015-06-09 14:17:43 - Weather_LastUpdate state updated to 2015-06-09T14:17:43
+2015-06-09 14:18:06 - Light_FF_Bath_Ceiling received command ON
+2015-06-09 14:18:13 - Light_FF_Bath_Ceiling received command OFF
+2015-06-09 14:18:47 - Weather_Temperature state updated to 18
+2015-06-09 14:18:47 - Weather_LastUpdate state updated to 2015-06-09T14:18:47
+2015-06-09 14:19:48 - Weather_Humidity state updated to 34
+2015-06-09 14:19:48 - Weather_Temperature state updated to 18
+2015-06-09 14:19:48 - Weather_LastUpdate state updated to 2015-06-09T14:19:48
+2015-06-09 14:20:00 - Temperature_GF_Corridor state updated to 21.30000000
+2015-06-09 14:20:00 - Temperature_GF_Toilet state updated to 19.70000000
+2015-06-09 14:20:00 - Temperature_GF_Living state updated to 19.60000000
+2015-06-09 14:20:00 - Temperature_GF_Kitchen state updated to 20.60000000
+2015-06-09 14:20:00 - Temperature_FF_Bath state updated to 21.30000000
+2015-06-09 14:20:00 - Temperature_FF_Office state updated to 22.30000000
+2015-06-09 14:20:00 - Temperature_FF_Child state updated to 21.00000000
+2015-06-09 14:20:00 - Temperature_FF_Bed state updated to 19.80000000
+2015-06-09 14:20:49 - Weather_Humidity state updated to 34
+2015-06-09 14:20:49 - Weather_Temperature state updated to 18
+2015-06-09 14:20:49 - Weather_LastUpdate state updated to 2015-06-09T14:20:49
+2015-06-09 14:21:49 - Weather_Humidity state updated to 34
+2015-06-09 14:21:49 - Weather_Temperature state updated to 18
+2015-06-09 14:21:49 - Weather_LastUpdate state updated to 2015-06-09T14:21:49
+2015-06-09 14:22:50 - Weather_Humidity state updated to 34
+2015-06-09 14:22:50 - Weather_Temperature state updated to 18
+2015-06-09 14:22:50 - Weather_LastUpdate state updated to 2015-06-09T14:22:50
+2015-06-09 14:23:50 - Weather_Humidity state updated to 34
+2015-06-09 14:23:50 - Weather_Temperature state updated to 18
+2015-06-09 14:23:50 - Weather_LastUpdate state updated to 2015-06-09T14:23:50
+2015-06-09 14:24:51 - Weather_Humidity state updated to 34
+2015-06-09 14:24:51 - Weather_Temperature state updated to 18
+2015-06-09 14:24:51 - Weather_LastUpdate state updated to 2015-06-09T14:24:51
+2015-06-09 14:25:00 - Temperature_GF_Corridor state updated to 17.60000000
+2015-06-09 14:25:00 - Temperature_GF_Toilet state updated to 21.30000000
+2015-06-09 14:25:00 - Temperature_GF_Living state updated to 21.00000000
+2015-06-09 14:25:00 - Temperature_GF_Kitchen state updated to 18.50000000
+2015-06-09 14:25:00 - Temperature_FF_Bath state updated to 19.20000000
+2015-06-09 14:25:00 - Temperature_FF_Office state updated to 21.10000000
+2015-06-09 14:25:00 - Temperature_FF_Child state updated to 19.80000000
+2015-06-09 14:25:00 - Temperature_FF_Bed state updated to 19.60000000
+2015-06-09 14:25:51 - Weather_Humidity state updated to 34
+2015-06-09 14:25:52 - Weather_Temperature state updated to 18
+2015-06-09 14:25:52 - Weather_LastUpdate state updated to 2015-06-09T14:25:52
+2015-06-09 14:26:48 - Date state updated to 2015-06-09T14:26:48
+2015-06-09 14:26:52 - Weather_Humidity state updated to 34
+2015-06-09 14:26:52 - Weather_Temperature state updated to 18
+2015-06-09 14:26:52 - Weather_LastUpdate state updated to 2015-06-09T14:26:52
+2015-06-09 14:36:02 - Presence received command ON
+2015-06-09 14:36:03 - Presence received command OFF
+2015-06-09 14:36:03 - Light received command OFF
+2015-06-09 14:36:05 - Presence received command ON
+2015-06-09 14:36:09 - Presence received command OFF
+2015-06-09 14:36:10 - Presence received command ON
+2015-06-09 14:36:12 - Light received command OFF
+2015-06-09 14:36:13 - Presence received command OFF
+2015-06-09 14:36:13 - Light received command ON
+2015-06-09 14:36:14 - Presence received command ON
+2015-06-09 14:36:14 - Light received command OFF
+2015-06-09 14:36:15 - Presence received command OFF
+2015-06-09 14:36:16 - Light received command OFF
+2015-06-09 14:36:18 - Light received command OFF
+2015-06-09 14:36:18 - Presence received command ON
+2015-06-09 14:36:23 - Presence received command OFF
+2015-06-09 14:36:25 - Presence received command ON
+2015-06-09 14:36:26 - Light received command OFF
+2015-06-09 14:36:27 - Presence received command OFF
+2015-06-09 14:36:30 - Light received command OFF
+2015-06-09 14:37:11 - Presence received command ON
+2015-06-09 14:37:18 - Light received command ON
+2015-06-09 14:37:21 - Presence received command OFF
+2015-06-09 14:37:24 - Light received command OFF
+2015-06-09 14:37:27 - Presence received command ON
+2015-06-09 14:37:32 - Light received command ON
+2015-06-09 14:37:34 - Presence received command OFF
+2015-06-09 14:37:37 - Light received command OFF
+2015-06-09 14:38:05 - Presence received command ON
+2015-06-09 14:38:08 - Light received command ON
+2015-06-09 14:38:09 - Presence received command OFF
+2015-06-09 14:38:12 - Light received command OFF
+2015-06-09 14:43:23 - Presence received command ON
+2015-06-09 14:43:25 - Presence received command OFF
+2015-06-09 14:43:27 - Presence received command ON
+2015-06-09 14:43:28 - Light received command OFF
+2015-06-09 14:43:30 - Presence received command OFF
+2015-06-09 14:43:33 - Light received command OFF
+2015-06-09 14:43:58 - Presence received command ON
+2015-06-09 14:44:03 - Presence received command OFF
+2015-06-09 14:44:06 - Light received command OFF
+2015-06-09 14:46:47 - Presence received command ON
+2015-06-09 14:46:52 - Presence received command OFF
+2015-06-09 14:46:55 - Light received command OFF
+2015-06-09 14:46:58 - Presence received command ON
+2015-06-09 14:47:03 - Presence received command OFF
+2015-06-09 14:47:04 - Presence received command ON
+2015-06-09 14:47:06 - Light received command OFF
+2015-06-09 14:47:07 - Presence received command OFF
+2015-06-09 14:47:07 - Presence received command ON
+2015-06-09 14:47:10 - Light received command OFF
+2015-06-09 14:47:11 - Presence received command OFF
+2015-06-09 14:47:12 - Presence received command ON
+2015-06-09 14:47:13 - Presence received command OFF
+2015-06-09 14:47:14 - Light received command OFF
+2015-06-09 14:47:16 - Light received command OFF
+2015-06-09 14:47:21 - Presence received command ON
+2015-06-09 14:47:23 - Light received command ON
+2015-06-09 14:47:24 - Presence received command OFF
+2015-06-09 14:47:25 - Light received command OFF
+2015-06-09 14:47:26 - Presence received command ON
+2015-06-09 14:47:27 - Presence received command OFF
+2015-06-09 14:47:27 - Light received command OFF
+2015-06-09 14:47:30 - Light received command OFF
+2015-06-09 14:47:35 - Presence received command ON
+2015-06-09 14:47:48 - Light received command ON
+2015-06-09 14:47:59 - Presence received command OFF
+2015-06-09 14:48:02 - Light received command OFF
+2015-06-09 14:48:06 - Presence received command ON
+2015-06-09 14:48:38 - Presence received command OFF
+2015-06-09 14:48:39 - Light received command OFF
+2015-06-09 14:48:40 - Presence received command OFF
+2015-06-09 14:48:41 - Light received command OFF
+2015-06-09 14:48:43 - Light received command ON
+2015-06-09 14:48:50 - Light received command OFF
+2015-06-09 14:48:57 - Presence received command ON
+2015-06-09 14:48:59 - Light received command ON
+2015-06-09 14:49:02 - Presence received command OFF
+2015-06-09 14:49:05 - Light received command OFF
+2015-06-09 14:50:14 - Light received command OFF
+2015-06-09 14:50:15 - Presence received command ON
+2015-06-09 14:50:18 - Light received command ON
+2015-06-09 14:50:21 - Light received command OFF
+2015-06-09 14:50:21 - Presence received command OFF
+2015-06-09 14:50:24 - Light received command OFF
+2015-06-09 14:50:27 - Presence received command ON
+2015-06-09 14:50:30 - Light received command ON
+2015-06-09 14:50:33 - Presence received command OFF
+2015-06-09 14:50:36 - Light received command OFF
+2015-06-09 14:58:11 - Presence received command ON
+2015-06-09 14:58:15 - Light received command ON
+2015-06-09 14:58:20 - Light received command OFF
+2015-06-09 14:58:23 - Light received command ON
+2015-06-09 14:58:23 - Presence received command OFF
+2015-06-09 14:58:26 - Light received command OFF
+2015-06-09 14:58:33 - Light received command OFF
+2015-06-09 14:58:35 - Presence received command OFF
+2015-06-09 14:58:35 - Light received command ON
+2015-06-09 14:58:38 - Presence received command ON
+2015-06-09 14:58:46 - Presence received command OFF
+2015-06-09 14:58:49 - Light received command OFF
+2015-06-09 14:59:31 - Presence received command ON
+2015-06-09 14:59:32 - Light received command ON
+2015-06-09 14:59:39 - Presence received command OFF
+2015-06-09 14:59:42 - Light received command OFF
+2015-06-09 15:02:43 - Presence received command ON
+2015-06-09 15:02:45 - Light received command ON
+2015-06-09 15:02:51 - Presence received command OFF
+2015-06-09 15:02:54 - Light received command OFF
+2015-06-09 15:02:57 - Light received command OFF
+2015-06-09 15:07:02 - Light received command ON
+2015-06-09 15:07:08 - Light received command OFF
+2015-06-09 15:07:09 - Light received command ON
+2015-06-09 15:07:10 - Light received command OFF
+2015-06-09 15:07:12 - Light received command ON
+2015-06-09 15:07:13 - Light received command OFF
+2015-06-09 15:11:52 - Presence received command ON
+2015-06-09 15:11:53 - Presence received command OFF
+2015-06-09 15:11:56 - Light received command OFF
+2015-06-09 15:15:27 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:15:27 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:15:27 - Window_GF_Living state updated to OPEN
+2015-06-09 15:15:27 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:15:27 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:15:27 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:15:27 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:15:27 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:15:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:15:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:15:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:15:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:15:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:15:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:15:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:15:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:16:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:16:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:16:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:16:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:16:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:16:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:16:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:16:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:16:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:16:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:16:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:16:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:16:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:16:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:16:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:16:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:17:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:17:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:17:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:17:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:17:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:17:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:17:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:17:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:17:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:17:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:17:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:17:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:17:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:17:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:17:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:17:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:18:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:18:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:18:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:18:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:18:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:18:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:18:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:18:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:18:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:18:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:18:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:18:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:18:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:18:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:18:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:18:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:19:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:19:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:19:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:19:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:19:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:19:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:19:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:19:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:19:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:19:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:19:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:19:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:19:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:19:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:19:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:19:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:20:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:20:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:20:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:20:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:20:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:20:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:20:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:20:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:20:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:20:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:20:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:20:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:20:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:20:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:20:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:20:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:21:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:21:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:21:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:21:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:21:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:21:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:21:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:21:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:21:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:21:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:21:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:21:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:21:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:21:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:21:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:21:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:22:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:22:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:22:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:22:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:22:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:22:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:22:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:22:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:22:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:22:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:22:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:22:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:22:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:22:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:22:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:22:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:23:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:23:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:23:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:23:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:23:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:23:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:23:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:23:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:23:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:23:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:23:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:23:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:23:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:23:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:23:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:23:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:24:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:24:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:24:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:24:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:24:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:24:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:24:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:24:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:24:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:24:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:24:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:24:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:24:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:24:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:24:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:24:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:25:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:25:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:25:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:25:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:25:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:25:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:25:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:25:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:25:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:25:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:25:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:25:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:25:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:25:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:25:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:25:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:26:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:26:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:26:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:26:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:26:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:26:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:26:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:26:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:26:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:26:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:26:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:26:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:26:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:26:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:26:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:26:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:27:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:27:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:27:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:27:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:27:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:27:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:27:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:27:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:27:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:27:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:27:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:27:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:27:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:27:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:27:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:27:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:28:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:28:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:28:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:28:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:28:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:28:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:28:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:28:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:28:13 - Light received command ON
+2015-06-09 15:28:16 - Light received command OFF
+2015-06-09 15:28:17 - Light received command ON
+2015-06-09 15:28:19 - Light received command OFF
+2015-06-09 15:28:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:28:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:28:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:28:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:28:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:28:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:28:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:28:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:29:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:29:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:29:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:29:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:29:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:29:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:29:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:29:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:29:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:29:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:29:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:29:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:29:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:29:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:29:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:29:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:30:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:30:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:30:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:30:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:30:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:30:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:30:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:30:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:30:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:30:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:30:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:30:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:30:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:30:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:30:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:30:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:31:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:31:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:31:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:31:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:31:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:31:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:31:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:31:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:31:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:31:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:31:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:31:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:31:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:31:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:31:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:31:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:31:45 - Light received command ON
+2015-06-09 15:31:46 - Presence received command ON
+2015-06-09 15:31:49 - Presence received command OFF
+2015-06-09 15:31:52 - Light received command OFF
+2015-06-09 15:32:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:32:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:32:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:32:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:32:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:32:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:32:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:32:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:32:26 - Presence received command ON
+2015-06-09 15:32:30 - Presence received command OFF
+2015-06-09 15:32:32 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:32:32 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:32:32 - Window_GF_Living state updated to OPEN
+2015-06-09 15:32:32 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:32:32 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:32:32 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:32:32 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:32:32 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:32:32 - Light received command ON
+2015-06-09 15:32:34 - Presence received command ON
+2015-06-09 15:32:36 - Light received command OFF
+2015-06-09 15:32:38 - Light received command ON
+2015-06-09 15:32:43 - Presence received command OFF
+2015-06-09 15:32:46 - Light received command OFF
+2015-06-09 15:32:50 - Presence received command OFF
+2015-06-09 15:32:54 - Presence received command ON
+2015-06-09 15:32:55 - Light received command ON
+2015-06-09 15:32:57 - Presence received command OFF
+2015-06-09 15:33:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:33:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:33:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:33:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:33:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:33:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:33:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:33:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:33:00 - Light received command OFF
+2015-06-09 15:33:08 - Presence received command ON
+2015-06-09 15:33:10 - Light received command ON
+2015-06-09 15:33:12 - Presence received command OFF
+2015-06-09 15:33:15 - Light received command OFF
+2015-06-09 15:33:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:33:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:33:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:33:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:33:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:33:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:33:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:33:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:34:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:34:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:34:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:34:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:34:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:34:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:34:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:34:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:34:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:34:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:34:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:34:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:34:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:34:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:34:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:34:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:35:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:35:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:35:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:35:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:35:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:35:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:35:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:35:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:35:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:35:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:35:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:35:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:35:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:35:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:35:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:35:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:36:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:36:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:36:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:36:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:36:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:36:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:36:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:36:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:36:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:36:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:36:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:36:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:36:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:36:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:36:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:36:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:37:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:37:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:37:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:37:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:37:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:37:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:37:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:37:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:37:04 - Presence received command ON
+2015-06-09 15:37:07 - Presence received command OFF
+2015-06-09 15:37:09 - Light received command ON
+2015-06-09 15:37:10 - Light received command OFF
+2015-06-09 15:37:12 - Light received command ON
+2015-06-09 15:37:15 - Presence received command ON
+2015-06-09 15:37:17 - Presence received command OFF
+2015-06-09 15:37:20 - Light received command OFF
+2015-06-09 15:37:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:37:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:37:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:37:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:37:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:37:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:37:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:37:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:37:48 - Presence received command ON
+2015-06-09 15:37:50 - Presence received command OFF
+2015-06-09 15:37:53 - Light received command OFF
+2015-06-09 15:38:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:38:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:38:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:38:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:38:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:38:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:38:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:38:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:38:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:38:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:38:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:38:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:38:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:38:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:38:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:38:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:39:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:39:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:39:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:39:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:39:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:39:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:39:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:39:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:39:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:39:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:39:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:39:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:39:30 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:39:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:39:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:39:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:40:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:40:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:40:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:40:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:40:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:40:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:40:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:40:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:40:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:40:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:40:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:40:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:40:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:40:30 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:40:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:40:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:41:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:41:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:41:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:41:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:41:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:41:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:41:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:41:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:41:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:41:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:41:30 - Window_GF_Living state updated to OPEN
+2015-06-09 15:41:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:41:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:41:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:41:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:41:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:42:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:42:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:42:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:42:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:42:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:42:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:42:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:42:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:42:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:42:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:42:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:42:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:42:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:42:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:42:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-09 15:42:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-09 15:42:33 - Light received command ON
+2015-06-09 15:42:35 - Presence received command ON
+2015-06-09 15:42:36 - Presence received command OFF
+2015-06-09 15:42:39 - Light received command OFF
+2015-06-09 15:43:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:43:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-09 15:43:00 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:43:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-09 15:43:00 - Window_FF_Bath state updated to CLOSED
+2015-06-09 15:43:00 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:43:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:43:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:43:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-09 15:43:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:43:30 - Window_GF_Living state updated to CLOSED
+2015-06-09 15:43:30 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:43:30 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:43:30 - Window_FF_Bed state updated to OPEN
+2015-06-09 15:43:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:43:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-09 15:44:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-09 15:44:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-09 15:44:00 - Window_GF_Living state updated to OPEN
+2015-06-09 15:44:00 - Window_GF_Toilet state updated to OPEN
+2015-06-09 15:44:00 - Window_FF_Bath state updated to OPEN
+2015-06-09 15:44:00 - Window_FF_Bed state updated to CLOSED
+2015-06-09 15:44:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-09 15:44:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-10 11:06:34 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-10 11:06:34 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:06:34 - Window_GF_Living state updated to OPEN
+2015-06-10 11:06:34 - Window_GF_Toilet state updated to OPEN
+2015-06-10 11:06:34 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:06:34 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:06:34 - Window_FF_Office_Window state updated to OPEN
+2015-06-10 11:06:34 - Window_FF_Office_Door state updated to OPEN
+2015-06-10 11:07:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-10 11:07:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-10 11:07:00 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:07:00 - Window_GF_Toilet state updated to OPEN
+2015-06-10 11:07:00 - Window_FF_Bath state updated to OPEN
+2015-06-10 11:07:00 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:07:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-10 11:07:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-10 11:07:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:07:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:07:30 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:07:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:07:30 - Window_FF_Bath state updated to OPEN
+2015-06-10 11:07:30 - Window_FF_Bed state updated to CLOSED
+2015-06-10 11:07:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-10 11:07:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-10 11:07:35 - Light_SF_Corridor_Ceiling received command ON
+2015-06-10 11:07:36 - Light_SF_Corridor_Ceiling received command OFF
+2015-06-10 11:08:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:08:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:08:00 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:08:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:08:00 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:08:00 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:08:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-10 11:08:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-10 11:08:06 - Light_SF_Corridor_Ceiling received command ON
+2015-06-10 11:08:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-10 11:08:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:08:30 - Window_GF_Living state updated to OPEN
+2015-06-10 11:08:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:08:30 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:08:30 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:08:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-10 11:08:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-10 11:09:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:09:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-10 11:09:00 - Window_GF_Living state updated to OPEN
+2015-06-10 11:09:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:09:00 - Window_FF_Bath state updated to OPEN
+2015-06-10 11:09:00 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:09:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-10 11:09:00 - Window_FF_Office_Door state updated to OPEN
+2015-06-10 11:09:06 - Light_SF_Corridor_Ceiling state updated to OFF
+2015-06-10 11:09:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:09:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-10 11:09:30 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:09:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:09:30 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:09:30 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:09:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-10 11:09:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-10 11:10:00 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-10 11:10:00 - Window_GF_Kitchen state updated to CLOSED
+2015-06-10 11:10:00 - Window_GF_Living state updated to OPEN
+2015-06-10 11:10:00 - Window_GF_Toilet state updated to OPEN
+2015-06-10 11:10:00 - Window_FF_Bath state updated to OPEN
+2015-06-10 11:10:00 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:10:00 - Window_FF_Office_Window state updated to CLOSED
+2015-06-10 11:10:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-10 11:10:30 - Window_GF_Frontdoor state updated to CLOSED
+2015-06-10 11:10:30 - Window_GF_Kitchen state updated to CLOSED
+2015-06-10 11:10:30 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:10:30 - Window_GF_Toilet state updated to OPEN
+2015-06-10 11:10:30 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:10:30 - Window_FF_Bed state updated to CLOSED
+2015-06-10 11:10:30 - Window_FF_Office_Window state updated to OPEN
+2015-06-10 11:10:30 - Window_FF_Office_Door state updated to OPEN
+2015-06-10 11:11:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:11:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:11:00 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:11:00 - Window_GF_Toilet state updated to OPEN
+2015-06-10 11:11:00 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:11:00 - Window_FF_Bed state updated to OPEN
+2015-06-10 11:11:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-10 11:11:00 - Window_FF_Office_Door state updated to CLOSED
+2015-06-10 11:11:30 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:11:30 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:11:30 - Window_GF_Living state updated to OPEN
+2015-06-10 11:11:30 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:11:30 - Window_FF_Bath state updated to CLOSED
+2015-06-10 11:11:30 - Window_FF_Bed state updated to CLOSED
+2015-06-10 11:11:30 - Window_FF_Office_Window state updated to CLOSED
+2015-06-10 11:11:30 - Window_FF_Office_Door state updated to CLOSED
+2015-06-10 11:12:00 - Window_GF_Frontdoor state updated to OPEN
+2015-06-10 11:12:00 - Window_GF_Kitchen state updated to OPEN
+2015-06-10 11:12:00 - Window_GF_Living state updated to CLOSED
+2015-06-10 11:12:00 - Window_GF_Toilet state updated to CLOSED
+2015-06-10 11:12:00 - Window_FF_Bath state updated to OPEN
+2015-06-10 11:12:00 - Window_FF_Bed state updated to CLOSED
+2015-06-10 11:12:00 - Window_FF_Office_Window state updated to OPEN
+2015-06-10 11:12:00 - Window_FF_Office_Door state updated to OPEN

@@ -13,7 +13,7 @@ HTTPS_PORT=8443
 cp=$(find $eclipsehome -name "org.eclipse.equinox.launcher_*.jar" | sort | tail -1);
 
 echo Launching the openHAB runtime...
-java-Djna.boot.library.path=/usr/lib/jni \
+java \
 	-Dosgi.clean=true \
 	-Declipse.ignoreApp=true \
 	-Dosgi.noShutdown=true  \

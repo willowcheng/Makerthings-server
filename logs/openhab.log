@@ -79,3 +79,55 @@ org.openhab.model.item.binding.BindingConfigParseException: bindingConfig '<http
 2015-07-03 15:41:36.707 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
 2015-07-03 16:06:53.257 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
 2015-07-03 16:07:00.156 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-04 16:38:59.062 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-04 16:38:59.730 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-04 16:38:59.791 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-04 16:39:01.253 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-04 16:39:09.561 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-07-04 16:39:09.738 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-04 16:39:09.767 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-04 16:39:09.784 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-04 16:39:09.794 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-04 16:39:09.850 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-07-04 16:39:09.958 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-07-04 16:39:10.173 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-04 16:39:14.339 [ERROR] [i.internal.GenericItemProvider] - Binding configuration of type 'http' of item ‘Temperature‘ could not be parsed correctly.
+org.openhab.model.item.binding.BindingConfigParseException: bindingConfig '<http://weather.yahooapis.com/forecastrss?w=638242&u=c:60000:XSLT(yahoo_weather_temperature.xsl)]>' doesn't contain a valid binding configuration
+	at org.openhab.binding.http.internal.HttpGenericBindingProvider.parseBindingConfig(HttpGenericBindingProvider.java:127) ~[na:na]
+	at org.openhab.binding.http.internal.HttpGenericBindingProvider.processBindingConfiguration(HttpGenericBindingProvider.java:101) ~[na:na]
+	at org.openhab.model.item.internal.GenericItemProvider.internalDispatchBindings(GenericItemProvider.java:348) [org.openhab.model.item_1.7.0.jar:na]
+	at org.openhab.model.item.internal.GenericItemProvider.dispatchBindingsPerType(GenericItemProvider.java:309) [org.openhab.model.item_1.7.0.jar:na]
+	at org.openhab.model.item.internal.GenericItemProvider.addBindingConfigReader(GenericItemProvider.java:106) [org.openhab.model.item_1.7.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[na:1.8.0_45]
+	at org.eclipse.equinox.internal.ds.model.ComponentReference.bind(ComponentReference.java:376) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.model.ServiceComponentProp.bindReference(ServiceComponentProp.java:444) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.InstanceProcess.dynamicBind(InstanceProcess.java:416) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.Resolver.getEligible(Resolver.java:334) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.SCRManager.serviceChanged(SCRManager.java:222) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.osgi.internal.serviceregistry.FilteredServiceListener.serviceChanged(FilteredServiceListener.java:107) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.dispatchEvent(BundleContextImpl.java:861) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.publishServiceEventPrivileged(ServiceRegistry.java:819) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.publishServiceEvent(ServiceRegistry.java:771) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistrationImpl.register(ServiceRegistrationImpl.java:130) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.registerService(ServiceRegistry.java:214) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.registerService(BundleContextImpl.java:433) [org.eclipse.osgi_3.8.2.v20130124-134944.jar:na]
+	at org.eclipse.equinox.internal.ds.InstanceProcess.registerService(InstanceProcess.java:536) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.InstanceProcess.buildComponents(InstanceProcess.java:260) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.Resolver.buildNewlySatisfied(Resolver.java:473) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.Resolver.enableComponents(Resolver.java:217) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.SCRManager.performWork(SCRManager.java:816) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.SCRManager$QueuedJob.dispatch(SCRManager.java:783) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.ds.WorkThread.run(WorkThread.java:89) [org.eclipse.equinox.ds_1.4.1.v20120926-201320.jar:na]
+	at org.eclipse.equinox.internal.util.impl.tpt.threadpool.Executor.run(Executor.java:70) [org.eclipse.equinox.util_1.0.400.v20120917-192807.jar:na]
+2015-07-04 16:39:14.345 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-04 16:39:14.391 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-04 16:39:14.518 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-04 16:39:15.137 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: not authorized
+2015-07-04 16:39:20.031 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-07-04 16:39:47.023 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-04 16:39:51.041 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI

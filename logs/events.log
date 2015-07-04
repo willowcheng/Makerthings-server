@@ -419,3 +419,30 @@
 2015-07-03 16:07:00 - Window_FF_Bed state updated to CLOSED
 2015-07-03 16:07:00 - Window_FF_Office_Window state updated to OPEN
 2015-07-03 16:07:00 - Window_FF_Office_Door state updated to CLOSED
+2015-07-04 16:39:13 - Light received command ON
+2015-07-04 16:39:15 - Presence received command ON
+2015-07-04 16:39:17 - Presence received command OFF
+2015-07-04 16:39:20 - Window_GF_Frontdoor state updated to CLOSED
+2015-07-04 16:39:20 - Window_GF_Kitchen state updated to CLOSED
+2015-07-04 16:39:20 - Window_GF_Living state updated to CLOSED
+2015-07-04 16:39:20 - Window_GF_Toilet state updated to CLOSED
+2015-07-04 16:39:20 - Window_FF_Bath state updated to OPEN
+2015-07-04 16:39:20 - Window_FF_Bed state updated to CLOSED
+2015-07-04 16:39:20 - Window_FF_Office_Window state updated to CLOSED
+2015-07-04 16:39:20 - Window_FF_Office_Door state updated to CLOSED
+2015-07-04 16:39:25 - Presence received command ON
+2015-07-04 16:39:27 - Light received command OFF
+2015-07-04 16:39:28 - Presence received command OFF
+2015-07-04 16:39:29 - Presence received command ON
+2015-07-04 16:39:30 - Window_GF_Frontdoor state updated to OPEN
+2015-07-04 16:39:30 - Window_GF_Kitchen state updated to CLOSED
+2015-07-04 16:39:30 - Window_GF_Living state updated to CLOSED
+2015-07-04 16:39:30 - Window_GF_Toilet state updated to OPEN
+2015-07-04 16:39:30 - Window_FF_Bath state updated to OPEN
+2015-07-04 16:39:30 - Window_FF_Bed state updated to CLOSED
+2015-07-04 16:39:30 - Window_FF_Office_Window state updated to OPEN
+2015-07-04 16:39:30 - Window_FF_Office_Door state updated to OPEN
+2015-07-04 16:39:31 - Light received command OFF
+2015-07-04 16:39:34 - Light received command ON
+2015-07-04 16:39:36 - Presence received command OFF
+2015-07-04 16:39:39 - Light received command OFF

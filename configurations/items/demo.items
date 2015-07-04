@@ -13,8 +13,7 @@ Contact 	Window_FF_Office_Door "Balcony Door [MAP(en.map):%s]"		 (Windows)
 
 Group:Contact:OR(OPEN, CLOSED) Windows "Open windows [(%d)]" <contact>
 
-Number Temperature   "Ottawa Yahoo Temperature [%.2f °C]"   {weather="locationId=home, type=temperature, property=current"}
-Number Humidity      "Hefei ForecastIo Humidity [%d %%]"        {weather="locationId=home, type=atmosphere, property=humidity"}
+Number Temperature "Temperature [%.1f 'C]" <temperature> { http="<http://weather.yahooapis.com/forecastrss?w=638242&u=c:60000:XSLT(yahoo_weather_temperature.xsl)]>"}
 
 Group gSF (All)
 Group SF_Corridor "Corridor" <corridor> (gSF)

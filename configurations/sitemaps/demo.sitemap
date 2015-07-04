@@ -3,7 +3,7 @@ sitemap demo label="My Home" {
 		Switch item=Presence
 		Switch item=Light
 		Group item=Windows
-		Text item=Temperature
+		Group item=Weather
 		Group item=gSF label="Second Floor" icon="firstfloor" 
 	}
 }

@@ -202,3 +202,27 @@ org.openhab.model.item.binding.BindingConfigParseException: bindingConfig '<http
 2015-07-04 17:58:17.051 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
 2015-07-04 18:00:46.573 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
 2015-07-04 18:00:51.569 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-04 18:04:11.984 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-04 18:04:13.125 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-04 18:04:13.157 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-04 18:04:15.002 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-04 18:04:22.758 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-07-04 18:04:22.900 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-04 18:04:22.927 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-04 18:04:22.935 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-04 18:04:22.945 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-04 18:04:22.993 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-07-04 18:04:23.110 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-07-04 18:04:23.547 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-04 18:04:26.848 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-04 18:04:26.848 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-04 18:04:26.849 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=FORECASTIO,language=en,updateInterval=10,latitude=31.838354,longitude=117.298676,locationId=home,name=<null>]
+2015-07-04 18:04:26.857 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-04 18:04:26.896 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-04 18:04:26.970 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-04 18:04:27.585 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: not authorized
+2015-07-04 18:04:29.857 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-04 18:04:29.859 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-home with interval of 10 minutes
+2015-07-04 18:04:33.193 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-07-04 18:04:51.347 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-04 18:04:58.371 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI

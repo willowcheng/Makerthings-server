@@ -599,3 +599,13 @@
 2015-07-04 18:00:30 - Window_FF_Bed state updated to OPEN
 2015-07-04 18:00:30 - Window_FF_Office_Window state updated to OPEN
 2015-07-04 18:00:30 - Window_FF_Office_Door state updated to OPEN
+2015-07-04 18:04:30 - Temperature state updated to 26.00
+2015-07-04 18:04:30 - Humidity state updated to 81.00
+2015-07-04 18:04:33 - Window_GF_Frontdoor state updated to CLOSED
+2015-07-04 18:04:33 - Window_GF_Kitchen state updated to CLOSED
+2015-07-04 18:04:33 - Window_GF_Living state updated to CLOSED
+2015-07-04 18:04:33 - Window_GF_Toilet state updated to OPEN
+2015-07-04 18:04:33 - Window_FF_Bath state updated to CLOSED
+2015-07-04 18:04:33 - Window_FF_Bed state updated to CLOSED
+2015-07-04 18:04:33 - Window_FF_Office_Window state updated to CLOSED
+2015-07-04 18:04:33 - Window_FF_Office_Door state updated to CLOSED

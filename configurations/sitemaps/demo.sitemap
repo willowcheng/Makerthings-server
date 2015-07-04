@@ -4,6 +4,7 @@ sitemap demo label="My Home" {
 		Switch item=Light
 		Group item=Windows
 		Text item=Temperature
+		Text item=Humidity
 		Group item=gSF label="Second Floor" icon="firstfloor" 
 	}
 }

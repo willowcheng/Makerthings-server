@@ -79,3 +79,102 @@ org.openhab.model.item.binding.BindingConfigParseException: bindingConfig '<http
 2015-07-03 15:41:36.707 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
 2015-07-03 16:06:53.257 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
 2015-07-03 16:07:00.156 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-04 17:23:48.870 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-04 17:23:50.113 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-04 17:23:50.166 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-04 17:23:52.400 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-04 17:23:59.613 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-07-04 17:23:59.789 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-04 17:23:59.807 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-04 17:23:59.812 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-04 17:23:59.819 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-04 17:23:59.870 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-07-04 17:23:59.967 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-07-04 17:24:00.518 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-04 17:24:03.367 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-04 17:24:03.414 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-04 17:24:03.484 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-04 17:24:04.716 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: not authorized
+2015-07-04 17:24:07.922 [WARN ] [e.jetty.servlet.ServletHandler] - /openhab.app
+org.openhab.ui.webapp.render.RenderException: Sitemap 'default' could not be found
+	at org.openhab.ui.webapp.internal.servlet.WebAppServlet.service(WebAppServlet.java:114) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128) ~[na:na]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:60) ~[na:na]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:848) ~[javax.servlet_3.0.0.v201112011016.jar:na]
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:598) ~[org.eclipse.jetty.servlet_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:486) [org.eclipse.jetty.servlet_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:231) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1065) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:413) [org.eclipse.jetty.servlet_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:192) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:999) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:117) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:250) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:149) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:111) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.Server.handle(Server.java:350) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:454) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:890) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:944) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:630) [org.eclipse.jetty.http_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:230) [org.eclipse.jetty.http_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:77) [org.eclipse.jetty.server_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:606) [org.eclipse.jetty.io_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:46) [org.eclipse.jetty.io_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:603) [org.eclipse.jetty.util_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:538) [org.eclipse.jetty.util_8.1.3.v20120522.jar:8.1.3.v20120522]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_45]
+2015-07-04 17:24:10.036 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-07-04 17:26:50.968 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2015-07-04 17:29:31.045 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2015-07-04 17:32:31.128 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2015-07-04 17:32:40.410 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-04 17:32:45.672 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-04 17:32:57.580 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-04 17:32:58.338 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-04 17:32:58.381 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-04 17:33:00.021 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-04 17:33:08.342 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-07-04 17:33:08.652 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-04 17:33:08.724 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-04 17:33:08.775 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-04 17:33:08.789 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-04 17:33:08.801 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-04 17:33:08.879 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-07-04 17:33:08.998 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-07-04 17:33:12.701 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-04 17:33:12.716 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-04 17:33:12.758 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-04 17:33:13.634 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: not authorized
+2015-07-04 17:33:19.070 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-07-04 17:34:23.095 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-04 17:34:23.095 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=FORECASTIO,language=de,updateInterval=1,latitude=31.838052,longitude=117.298794,locationId=home,name=<null>]
+2015-07-04 17:34:26.101 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-home with interval of 1 minutes
+2015-07-04 17:34:26.940 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-04 17:34:30.958 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-04 17:35:02.660 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-04 17:35:03.425 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-04 17:35:03.460 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-04 17:35:05.044 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-04 17:35:13.185 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.sitemap'
+2015-07-04 17:35:13.328 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-04 17:35:13.350 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-04 17:35:13.358 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-04 17:35:13.385 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-04 17:35:13.486 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.script'
+2015-07-04 17:35:13.687 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-04 17:35:13.819 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.items'
+2015-07-04 17:35:17.804 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-04 17:35:18.162 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-04 17:35:18.163 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=FORECASTIO,language=de,updateInterval=1,latitude=31.838052,longitude=117.298794,locationId=home,name=<null>]
+2015-07-04 17:35:18.176 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-04 17:35:18.181 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-04 17:35:18.822 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: not authorized
+2015-07-04 17:35:21.169 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-home with interval of 1 minutes
+2015-07-04 17:35:23.904 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'demo.rules'
+2015-07-04 17:35:54.605 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'demo.items'
+2015-07-04 17:35:57.615 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-home
+2015-07-04 17:35:57.616 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-home with interval of 1 minutes
+2015-07-04 17:39:15.456 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-04 17:39:21.627 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI

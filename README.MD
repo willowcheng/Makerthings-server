@@ -12,6 +12,7 @@ Makerspace Internet of Things (OpenHab)
 2. Unexport GPIO before starting server
   - `cd /sys/class/gpio`
   - `sudo echo 17 > unexport` (17 may be altered depending on which pin number will be used)
+3. Install native JNA library via `apt-get install libjna-java`
 
 ## Features
 - Integrate with GPIO binding for Raspberry Pi

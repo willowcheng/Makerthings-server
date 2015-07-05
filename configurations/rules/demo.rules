@@ -15,3 +15,16 @@ rule "Initialize contact states"
 			window.postUpdate(if(Math::random > 0.5) OPEN else CLOSED)
 		)
 end
+
+rule "Voice control"
+	when
+		Item VoiceCommand received command
+	then
+		var String command = VoiceCommand.state.toString.toLowerCase
+		logInfo("Voice.Rec","VoiceCommand received "+command)
+		if (command.equals("open")) {
+			Light_SF_Corridor_Ceiling.send(ON)
+		} else if (command.equals("close")) {
+			Light_SF_Corridor_Ceiling.send(OFF)
+		}
+end

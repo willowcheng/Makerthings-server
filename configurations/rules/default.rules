@@ -2,18 +2,8 @@ rule Away
 when
 	Item Presence changed to OFF
 then
-	Thread::sleep(3000)
+	Thread::sleep(1000)
 	Light.send(OFF)
-end
-
-rule "Initialize contact states"
-	when
-		System started or
-		Time cron "0/30 * * * * ?"
-	then
-		Windows?.members.forEach(window|
-			window.postUpdate(if(Math::random > 0.5) OPEN else CLOSED)
-		)
 end
 
 rule "Voice control"
@@ -28,3 +18,4 @@ rule "Voice control"
 			Light.send(OFF)
 		}
 end
+

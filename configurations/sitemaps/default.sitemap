@@ -2,7 +2,6 @@ sitemap default label="Makerspace" {
 	Frame {
 		Switch item=Presence
 		Switch item=Light
-		Group item=Windows
 		Group item=Weather
 	}
 }

@@ -4,6 +4,5 @@ sitemap default label="Makerspace" {
 		Switch item=Light
 		Group item=Windows
 		Group item=Weather
-		Group item=gSF label="Second Floor" icon="firstfloor" 
 	}
 }

@@ -23,8 +23,8 @@ rule "Voice control"
 		var String command = VoiceCommand.state.toString.toLowerCase
 		logInfo("Voice.Rec","VoiceCommand received "+command)
 		if (command.equals("open")) {
-			Light_SF_Corridor_Ceiling.send(ON)
+			Light.send(ON)
 		} else if (command.equals("close")) {
-			Light_SF_Corridor_Ceiling.send(OFF)
+			Light.send(OFF)
 		}
 end

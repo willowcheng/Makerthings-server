@@ -1,4 +1,4 @@
-Switch Presence "At Home" <present>
+Switch Presence "At Makerspace" <present>
 Switch Light { gpio="pin:17" }
 
 /* Windows */
@@ -11,10 +11,10 @@ Contact 	Window_FF_Bed "Bedroom [MAP(en.map):%s]" 		(Windows)
 Contact 	Window_FF_Office_Window "Office Window [MAP(en.map):%s]"		 (Windows)
 Contact 	Window_FF_Office_Door "Balcony Door [MAP(en.map):%s]"		 (Windows)
 
-Group:Contact:OR(OPEN, CLOSED) Windows "Open windows [(%d)]" <contact>
+Group:Contact:OR(OPEN, CLOSED) Windows "Randomly open windows [(%d)]" <contact>
 
 Group Weather (All)
-Number   Temperature   "Ottawa Yahoo Temperature [%.2f °C]"  (Weather) {weather="locationId=school, type=temperature, property=current"}
-Number   Humidity      "Hefei ForecastIo Humidity [%d %%]"    (Weather)    {weather="locationId=home, type=atmosphere, property=humidity"}
+Number   Temperature   "Temperature [%.2f °C]"  (Weather) {weather="locationId=school, type=temperature, property=current"}
+Number   Humidity      "Humidity [%d %%]"    (Weather)    {weather="locationId=school, type=atmosphere, property=humidity"}
 
 String VoiceCommand

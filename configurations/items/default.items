@@ -1,0 +1,24 @@
+Switch Presence "At Home" <present>
+Switch Light
+
+/* Windows */
+Contact		Window_GF_Frontdoor "Frontdoor [MAP(en.map):%s]"	(Windows)
+Contact 	Window_GF_Kitchen "Kitchen [MAP(en.map):%s]" 	(Windows)
+Contact 	Window_GF_Living "Terrace door [MAP(en.map):%s]" 	(Windows)
+Contact 	Window_GF_Toilet "Toilet [MAP(en.map):%s]" 		(Windows)
+Contact 	Window_FF_Bath "Bath [MAP(en.map):%s]" 		(Windows)
+Contact 	Window_FF_Bed "Bedroom [MAP(en.map):%s]" 		(Windows)
+Contact 	Window_FF_Office_Window "Office Window [MAP(en.map):%s]"		 (Windows)
+Contact 	Window_FF_Office_Door "Balcony Door [MAP(en.map):%s]"		 (Windows)
+
+Group:Contact:OR(OPEN, CLOSED) Windows "Open windows [(%d)]" <contact>
+
+Group Weather (All)
+Number   Temperature   "Ottawa Yahoo Temperature [%.2f °C]"  (Weather) {weather="locationId=school, type=temperature, property=current"}
+Number   Humidity      "Hefei ForecastIo Humidity [%d %%]"    (Weather)    {weather="locationId=home, type=atmosphere, property=humidity"}
+
+Group gSF (All)
+Group SF_Corridor "Corridor" <corridor> (gSF)
+Switch Light_SF_Corridor_Ceiling "Corridor" (SF_Corridor, Lights) { gpio="pin:17" }
+
+String VoiceCommand

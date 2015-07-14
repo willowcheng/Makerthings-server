@@ -1,4 +1,4 @@
-sitemap demo label="My Home" {
+sitemap default label="Makerspace" {
 	Frame {
 		Switch item=Presence
 		Switch item=Light

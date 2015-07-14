@@ -1,5 +1,5 @@
 Switch Presence "At Home" <present>
-Switch Light
+Switch Light { gpio="pin:17" }
 
 /* Windows */
 Contact		Window_GF_Frontdoor "Frontdoor [MAP(en.map):%s]"	(Windows)

@@ -1054,3 +1054,52 @@ java.lang.RuntimeException: The name 'Weather_Temperature' cannot be resolved to
 2015-07-14 21:19:29.245 [INFO ] [d.internal.DropboxSynchronizer] - #########################################################################################
 2015-07-14 21:21:17.608 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
 2015-07-14 21:21:21.709 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-16 23:52:29.072 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-16 23:52:30.391 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-16 23:52:30.441 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-16 23:52:32.904 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-16 23:52:39.872 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-16 23:52:40.085 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-16 23:52:40.119 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-16 23:52:40.129 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-16 23:52:40.147 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-16 23:52:40.152 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-16 23:52:40.201 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-16 23:52:40.326 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-16 23:52:41.423 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-16 23:52:45.056 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-16 23:52:45.211 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-16 23:52:45.225 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-16 23:52:45.426 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-16 23:52:45.427 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-16 23:52:46.615 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-16 23:52:48.437 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-16 23:52:50.399 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 00:00:04.286 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: com.github.nkzawa.engineio.client.EngineIOException: xhr poll error
+2015-07-17 00:00:04.288 [INFO ] [.myopenhab.internal.MyOHClient] - Disconnected from my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 00:00:19.846 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 00:18:17.126 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 00:18:22.754 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 00:18:39.315 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 00:18:40.366 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 00:18:40.448 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 00:18:42.981 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 00:18:50.159 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 00:18:50.380 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 00:18:50.424 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 00:18:50.437 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 00:18:50.492 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 00:18:50.523 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 00:18:50.609 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 00:18:50.814 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 00:18:51.714 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 00:18:56.314 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 00:18:56.427 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 00:18:56.428 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 00:18:56.578 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 00:18:56.728 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 00:18:57.748 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 00:18:59.438 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 00:19:00.924 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 00:35:54.936 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 00:36:03.270 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI

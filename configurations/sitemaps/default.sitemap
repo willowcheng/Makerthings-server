@@ -1,7 +1,11 @@
 sitemap default label="Makerspace" {
-	Frame {
+	Frame label="Control" {
 		Switch item=Presence
 		Switch item=Light
-		Group item=Weather
+	}
+	Frame label="Today" {
+		Text item=Temperature icon="temperature"
+		Text item=Humidity icon="humidity"
+		Text item=Date
 	}
 }

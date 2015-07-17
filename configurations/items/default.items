@@ -1,8 +1,9 @@
-Switch Presence "At Makerspace" <present>
+Switch Presence "Presence" <present>
 Switch Light { gpio="pin:17" }
 
-Group Weather (All)
-Number   Temperature   "Temperature [%.2f °C]"  (Weather) {weather="locationId=school, type=temperature, property=current"}
-Number   Humidity      "Humidity [%d %%]"    (Weather)    {weather="locationId=school, type=atmosphere, property=humidity"}
+Number   Temperature   "Temperature [%.2f °C]"  {weather="locationId=school, type=temperature, property=current"}
+Number   Humidity      "Humidity [%d %%]"    {weather="locationId=school, type=atmosphere, property=humidity"}
+
+DateTime		Date			"Date [%1$tA - %1$tY.%1$tm.%1$td]"	<calendar>	{ ntp="Europe/Berlin:de_DE" }
 
 String VoiceCommand

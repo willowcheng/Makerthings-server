@@ -1103,3 +1103,72 @@ java.lang.RuntimeException: The name 'Weather_Temperature' cannot be resolved to
 2015-07-17 00:19:00.924 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
 2015-07-17 00:35:54.936 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
 2015-07-17 00:36:03.270 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 00:45:13.749 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 00:45:15.007 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 00:45:15.048 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 00:45:17.005 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 00:45:24.708 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 00:45:24.957 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 00:45:24.984 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 00:45:24.996 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 00:45:25.004 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 00:45:25.009 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 00:45:25.086 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 00:45:25.214 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 00:45:26.754 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 00:45:30.720 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 00:45:30.731 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 00:45:30.873 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 00:45:30.874 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 00:45:30.916 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 00:45:32.427 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 00:45:33.884 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 00:45:35.271 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 00:52:45.623 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.sitemap'
+2015-07-17 00:53:35.644 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.sitemap'
+2015-07-17 00:55:05.688 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.sitemap'
+2015-07-17 00:55:25.698 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.sitemap'
+2015-07-17 00:58:05.780 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 00:58:08.787 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 00:58:08.787 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 00:58:55.807 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 00:58:58.816 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 00:58:58.817 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 00:59:15.823 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 00:59:18.831 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 00:59:18.832 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 00:59:45.847 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 00:59:48.863 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 00:59:48.864 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 01:00:35.889 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 01:00:38.898 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 01:00:38.899 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 01:01:15.915 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 01:01:18.926 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 01:01:18.927 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 01:01:35.932 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 01:01:38.941 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 01:01:38.942 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 01:03:26.950 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 01:03:35.855 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 01:03:41.780 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 01:03:42.811 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 01:03:42.849 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 01:03:44.712 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 01:03:52.408 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 01:03:52.760 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 01:03:52.809 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 01:03:52.828 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 01:03:52.837 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 01:03:52.842 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 01:03:52.924 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 01:03:53.119 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 01:03:53.688 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 01:03:56.312 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 01:03:56.429 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 01:03:56.429 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 01:03:56.547 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 01:03:56.633 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 01:03:57.767 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 01:03:59.439 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 01:04:03.182 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'

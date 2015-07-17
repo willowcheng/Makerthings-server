@@ -2,6 +2,7 @@ sitemap default label="Makerspace" {
 	Frame label="Control" {
 		Switch item=Presence
 		Switch item=Light
+		Switch item=Projector icon="projector"
 	}
 	Frame label="Today" {
 		Text item=Temperature icon="temperature"

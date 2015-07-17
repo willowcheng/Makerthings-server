@@ -4,6 +4,7 @@ when
 then
 	Thread::sleep(1000)
 	Light.send(OFF)
+	Projector.send(OFF)
 end
 
 rule "Voice control"

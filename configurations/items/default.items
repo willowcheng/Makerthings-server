@@ -1,5 +1,6 @@
 Switch Presence "Presence" <present>
 Switch Light { gpio="pin:17" }
+Switch Projector { gpio="pin:22" }
 
 Number   Temperature   "Temperature [%.2f °C]"  {weather="locationId=school, type=temperature, property=current"}
 Number   Humidity      "Humidity [%d %%]"    {weather="locationId=school, type=atmosphere, property=humidity"}

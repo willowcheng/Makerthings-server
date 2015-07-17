@@ -1172,3 +1172,8 @@ java.lang.RuntimeException: The name 'Weather_Temperature' cannot be resolved to
 2015-07-17 01:03:57.767 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
 2015-07-17 01:03:59.439 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
 2015-07-17 01:04:03.182 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 01:11:03.518 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.items'
+2015-07-17 01:11:06.543 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Deleting weatherJob-school
+2015-07-17 01:11:06.546 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 01:11:23.562 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.rules'
+2015-07-17 01:11:33.600 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.sitemap'

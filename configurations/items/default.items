@@ -7,4 +7,6 @@ Number   Humidity      "Humidity [%d %%]"    {weather="locationId=school, type=a
 
 DateTime		Date			"Date [%1$tA - %1$tY.%1$tm.%1$td]"	<calendar>	{ ntp="Europe/Berlin:de_DE" }
 
+Number Music  "Music"  <network>
+
 String VoiceCommand

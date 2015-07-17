@@ -9,4 +9,7 @@ sitemap default label="Makerspace" {
 		Text item=Humidity icon="humidity"
 		Text item=Date
 	}
+	Frame label="Media" {
+		Selection item=Music mappings=[0=Off, 1=HR3, 2=SWR3]
+	}
 }

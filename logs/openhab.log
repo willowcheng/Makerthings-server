@@ -1404,3 +1404,921 @@ org.eclipse.jetty.util.MultiException: Multiple exceptions
 2015-07-17 10:31:28.990 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
 2015-07-17 10:31:30.609 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
 2015-07-17 10:31:32.503 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 12:00:04.314 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: com.github.nkzawa.engineio.client.EngineIOException: xhr poll error
+2015-07-17 12:00:04.315 [INFO ] [.myopenhab.internal.MyOHClient] - Disconnected from my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 12:00:24.143 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 14:42:05.872 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 14:44:53.181 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@6eae32ef=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30015ms)->EXPIRED(0ms)sent=30015ms
+2015-07-17 14:46:04.561 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@6069c14a=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30024ms)->EXPIRED(0ms)sent=30024ms
+2015-07-17 14:49:24.007 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@6456599f=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30094ms)->EXPIRED(0ms)sent=30094ms
+2015-07-17 14:51:20.493 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@2154cb71=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30059ms)->EXPIRED(0ms)sent=30059ms
+2015-07-17 14:51:29.629 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@3e72acfe=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29900ms)->EXPIRED(0ms)sent=29900ms
+2015-07-17 14:54:34.599 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@10bf49eb=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29891ms)->EXPIRED(0ms)sent=29891ms
+2015-07-17 14:54:39.273 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@467370c2=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29960ms)->EXPIRED(0ms)sent=29960ms
+2015-07-17 14:54:45.979 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@417b343e=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30057ms)->EXPIRED(0ms)sent=30057ms
+2015-07-17 14:55:34.612 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@6a4575b3=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29901ms)->EXPIRED(0ms)sent=29901ms
+2015-07-17 14:59:57.531 [INFO ] [openhab.model.script.Voice.Rec] - VoiceCommand received open
+2015-07-17 15:00:03.359 [INFO ] [openhab.model.script.Voice.Rec] - VoiceCommand received close
+2015-07-17 15:02:28.044 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:08:32.358 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:16:04.681 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:19:10.324 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:19:58.351 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:25:53.280 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:29:58.224 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:30:42.874 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:31:38.168 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:34:53.080 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:37:24.029 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:39:56.442 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:55:13.777 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 15:58:48.822 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 16:00:50.070 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 16:02:10.452 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 16:03:35.343 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 16:06:00.582 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 16:13:33.372 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 16:32:00.091 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 16:32:04.222 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 19:40:17.431 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 19:40:18.661 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 19:40:18.717 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 19:40:20.781 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 19:40:28.183 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 19:40:28.405 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 19:40:28.433 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 19:40:28.450 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 19:40:28.462 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 19:40:28.468 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 19:40:28.531 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 19:40:28.688 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 19:40:29.045 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 19:40:31.956 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 19:40:32.062 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 19:40:32.063 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 19:40:32.110 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 19:40:32.181 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 19:40:34.369 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 19:40:35.077 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 19:40:38.751 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 19:41:29.426 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@17e31090=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29988ms)->EXPIRED(0ms)sent=29988ms
+2015-07-17 19:43:08.134 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@1924ec1c=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29911ms)->EXPIRED(0ms)sent=29911ms
+2015-07-17 19:43:08.245 [INFO ] [openhab.model.script.Voice.Rec] - VoiceCommand received open
+2015-07-17 19:44:14.942 [INFO ] [openhab.model.script.Voice.Rec] - VoiceCommand received open
+2015-07-17 19:44:45.623 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@1d1b7be0=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29907ms)->EXPIRED(0ms)sent=29907ms
+2015-07-17 19:45:04.698 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@5819e627=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30044ms)->EXPIRED(0ms)sent=30044ms
+2015-07-17 19:45:07.944 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@57710a24=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29984ms)->EXPIRED(0ms)sent=29984ms
+2015-07-17 19:45:17.074 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@698b58da=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29995ms)->EXPIRED(0ms)sent=29995ms
+2015-07-17 19:45:36.569 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@2f09ea70=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29973ms)->EXPIRED(0ms)sent=29974ms
+2015-07-17 19:45:44.817 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 19:45:50.350 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 19:52:15.632 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 19:52:16.365 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 19:52:16.400 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 19:52:17.881 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 19:52:26.110 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 19:52:26.255 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 19:52:26.274 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 19:52:26.279 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 19:52:26.285 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 19:52:26.289 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 19:52:26.343 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 19:52:26.436 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 19:52:26.898 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 19:52:30.762 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 19:52:30.762 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 19:52:30.772 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 19:52:30.815 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 19:52:30.821 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 19:52:31.592 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 19:52:33.770 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 19:52:36.491 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 19:54:55.576 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@50189a65=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29936ms)->EXPIRED(0ms)sent=29936ms
+2015-07-17 19:58:49.655 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@5edf6e16=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29863ms)->EXPIRED(0ms)sent=29863ms
+2015-07-17 19:59:46.702 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@5ae0f115=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(29891ms)->EXPIRED(0ms)sent=29891ms
+2015-07-17 20:04:48.158 [WARN ] [ipse.jetty.client.HttpExchange] - EXPIRED MyOHExchange@1fe2642d=GET//localhost:8080/rest/sitemaps/default/default?#WAITING(30027ms)->EXPIRED(0ms)sent=30027ms
+2015-07-17 20:05:52.639 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 20:05:58.101 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 20:50:56.614 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 20:50:57.987 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 20:50:58.031 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 20:51:00.407 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 20:51:07.369 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 20:51:07.572 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 20:51:07.596 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 20:51:07.603 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 20:51:07.613 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 20:51:07.618 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 20:51:07.659 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 20:51:07.790 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 20:51:08.269 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 20:51:11.097 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 20:51:11.204 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 20:51:11.204 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 20:51:11.267 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 20:51:11.355 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 20:51:12.473 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 20:51:14.215 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 20:51:17.853 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 20:52:32.504 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 20:52:36.528 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 20:52:41.253 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 20:52:42.305 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 20:52:42.360 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 20:52:44.135 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 20:52:44.201 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.245 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.280 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.320 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.370 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.403 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.449 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.490 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.537 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.570 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.605 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.638 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.671 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.704 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.741 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.774 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.817 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.859 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.905 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.952 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:44.993 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.028 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.080 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.125 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.158 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.197 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.228 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.266 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.295 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.329 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.362 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.395 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.430 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.464 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.515 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.567 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.596 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.651 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.701 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.749 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.783 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.818 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.848 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.885 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.919 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:45.967 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.002 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.034 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.070 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.103 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.140 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.192 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.239 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.270 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.307 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.340 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.371 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.406 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.437 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.474 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.506 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.547 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.593 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.643 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.691 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.741 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.778 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.812 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.842 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.879 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.916 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:46.967 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.013 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.046 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.083 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.115 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.148 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.181 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.218 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.255 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.299 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.338 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.383 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.422 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.469 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.504 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.536 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.572 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.621 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.661 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.704 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.738 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.789 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.838 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.876 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.923 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.958 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:47.991 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.024 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.075 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.125 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.158 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.210 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.241 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.275 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.309 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.340 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.378 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.428 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.463 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.509 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.545 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.583 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.614 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.649 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.685 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.731 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.764 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.800 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.851 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.882 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.916 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:48.952 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.004 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.052 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.084 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.118 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.152 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.186 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.222 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.269 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.304 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.338 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.373 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.436 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.488 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.528 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.576 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.623 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.660 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.708 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.742 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.776 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.828 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.860 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.910 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.943 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:49.976 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.028 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.060 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.096 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.143 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.181 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.212 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.244 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.292 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.336 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.382 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.412 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.449 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.483 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.517 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.550 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.585 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.634 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.686 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.738 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.802 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.836 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.873 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.923 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:50.975 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.024 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.053 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.145 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.204 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.238 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.276 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.324 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.359 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.411 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.461 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.511 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.559 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.593 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.627 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.666 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:52:51.968 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 20:52:52.138 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 20:52:52.159 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.159 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.160 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.162 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 20:52:52.165 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.165 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.165 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.166 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.166 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.166 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:52:52.169 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 20:52:52.185 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.185 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.185 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.185 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.185 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.185 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.186 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Date for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.186 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Date for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.186 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Date for widget org.openhab.model.sitemap.Text
+2015-07-17 20:52:52.191 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 20:52:52.199 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 20:52:52.207 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Music for widget org.openhab.model.sitemap.Selection
+2015-07-17 20:52:52.208 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Music for widget org.openhab.model.sitemap.Selection
+2015-07-17 20:52:52.208 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Music for widget org.openhab.model.sitemap.Selection
+2015-07-17 20:52:52.284 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 20:52:52.431 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 20:52:52.781 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 20:52:56.050 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 20:52:56.127 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 20:52:56.244 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 20:52:56.246 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 20:52:56.246 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 20:52:57.537 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 20:52:59.257 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 20:53:02.495 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 20:54:20.152 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 20:54:24.174 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 20:54:29.455 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 20:54:30.444 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 20:54:30.479 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 20:54:32.515 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 20:54:32.577 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.619 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.663 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.697 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.732 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.764 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.802 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.852 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.883 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.916 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.948 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:32.982 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.020 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.053 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.083 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.123 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.169 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.202 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.237 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.277 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.357 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.392 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.447 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.492 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.526 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.556 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.591 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.625 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.661 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.698 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.746 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.776 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.813 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.846 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.880 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.926 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:33.967 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.011 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.045 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.079 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.112 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.146 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.180 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.213 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.250 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.279 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.316 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.349 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.382 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.412 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.448 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.487 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.520 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.552 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.592 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.637 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.667 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.700 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.735 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.773 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.802 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.837 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.868 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.898 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.936 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:34.969 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.005 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.038 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.074 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.104 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.138 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.173 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.209 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.242 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.275 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.309 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.340 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.373 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.406 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.447 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.477 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.509 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.546 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.578 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.610 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.645 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.676 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.717 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.778 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.811 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.847 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.880 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.913 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.947 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:35.982 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.019 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.048 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.082 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.119 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.150 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.182 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.219 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.253 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.284 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.321 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.356 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.386 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.417 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.456 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.487 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.519 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.559 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.606 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.646 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.691 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.723 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.755 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.790 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.823 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.857 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.889 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.923 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:36.961 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.009 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.046 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.075 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.111 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.144 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.179 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.208 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.242 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.279 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.314 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.364 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.396 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.429 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.463 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.500 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.531 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.567 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.598 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.632 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.664 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.701 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.732 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.768 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.799 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.834 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.869 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.901 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.937 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:37.968 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.003 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.037 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.073 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.109 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.138 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.172 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.206 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.236 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.290 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.328 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.355 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.390 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.429 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.457 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.496 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.527 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.556 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.590 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.628 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.660 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.691 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.729 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.755 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.795 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.829 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.865 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.896 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.925 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.962 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:38.996 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.030 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.065 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.104 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.150 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.185 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.216 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.249 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.282 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.317 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.349 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.384 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.417 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.458 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.488 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.517 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.558 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.599 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.631 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.671 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.703 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.737 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.772 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.803 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:39.838 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:54:40.043 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 20:54:40.211 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 20:54:40.228 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.228 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.228 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.230 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 20:54:40.236 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 20:54:40.242 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.243 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.243 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.245 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 20:54:40.248 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.249 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.249 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 20:54:40.249 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 20:54:40.254 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 20:54:40.255 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 20:54:40.255 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 20:54:40.299 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 20:54:40.386 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 20:54:40.387 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 20:54:40.387 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 20:54:40.402 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 20:54:40.835 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 20:54:44.342 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 20:54:44.466 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 20:54:44.482 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 20:54:44.664 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 20:54:44.665 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 20:54:45.548 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 20:54:47.676 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 20:54:50.453 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 20:55:17.060 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 20:56:27.912 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 20:56:31.937 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 20:56:35.571 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 20:56:36.487 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 20:56:36.524 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 20:56:38.183 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 20:56:38.238 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.279 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.315 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.350 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.383 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.418 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.453 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.486 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.520 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.550 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.598 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.654 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:38.688 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 20:56:46.174 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 20:56:46.326 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 20:56:46.346 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 20:56:46.352 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 20:56:46.358 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 20:56:46.362 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 20:56:46.417 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 20:56:46.513 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 20:56:46.789 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 20:56:50.647 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 20:56:50.718 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 20:56:50.817 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 20:56:50.820 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 20:56:50.820 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 20:56:51.828 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 20:56:53.828 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 20:56:56.568 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 20:58:04.372 [INFO ] [openhab.model.script.Voice.Rec] - VoiceCommand received open
+2015-07-17 21:00:18.847 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 21:00:22.864 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 21:06:59.737 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 21:07:00.619 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 21:07:00.672 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 21:07:02.483 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 21:07:10.252 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 21:07:10.399 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 21:07:10.419 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 21:07:10.425 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 21:07:10.432 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 21:07:10.436 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 21:07:10.482 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 21:07:10.577 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 21:07:10.870 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 21:07:14.831 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 21:07:14.906 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 21:07:14.994 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 21:07:14.999 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 21:07:14.999 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 21:07:16.324 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 21:07:18.010 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 21:07:20.636 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 21:07:42.234 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 21:07:46.253 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 21:08:18.270 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 21:08:19.071 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 21:08:19.142 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 21:08:20.931 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 21:08:28.787 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 21:08:28.936 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 21:08:28.957 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 21:08:28.964 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 21:08:28.978 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 21:08:28.983 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 21:08:29.045 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 21:08:29.194 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 21:08:29.597 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 21:08:33.430 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 21:08:33.506 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 21:08:33.655 [INFO ] [o.o.b.w.i.common.WeatherConfig] - ProviderConfig[providerName=FORECASTIO,apiKey=fb9bc4b82191b64d13b661b6897f06ea]
+2015-07-17 21:08:33.656 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 21:08:33.689 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 21:08:34.609 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 21:08:36.664 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 21:08:39.270 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 21:10:23.060 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 21:10:27.079 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 21:10:31.792 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 21:10:32.867 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 21:10:32.907 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 21:10:35.250 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 21:10:35.314 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.355 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.386 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.425 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.457 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.489 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.524 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.558 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.591 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.624 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.658 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.692 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.735 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.776 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.810 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.848 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.878 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.910 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.945 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:35.977 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.014 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.048 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.082 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.114 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.146 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.185 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.216 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.249 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.280 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.318 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.352 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.385 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.434 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.479 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.525 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.578 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.647 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.715 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.768 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.817 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.867 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.916 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:36.971 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.017 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.083 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.139 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.189 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.238 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.289 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.337 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.389 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.443 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.489 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.538 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.591 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.627 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.676 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.729 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.777 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.831 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.877 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.928 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:37.980 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.032 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.081 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.132 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.189 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.233 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.283 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.337 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.385 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.434 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.487 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.540 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.589 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.642 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.691 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.744 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.795 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.843 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.891 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.940 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:38.994 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.047 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.092 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.143 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.198 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.245 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.298 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.344 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.401 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.450 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.497 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.546 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.600 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.649 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.701 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.749 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.798 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.854 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.906 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:39.956 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.000 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.057 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.103 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.156 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.208 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.259 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.307 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.357 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.409 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.460 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.507 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.561 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.611 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.665 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.719 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.766 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.818 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.865 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.918 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:40.967 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.017 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.068 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.114 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.166 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.217 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.273 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.321 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.371 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.422 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.476 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.523 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.577 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.623 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.678 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.724 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.776 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.831 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.894 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.946 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:41.994 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:42.052 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:42.110 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:42.181 [INFO ] [.r.i.resources.SitemapResource] - Received HTTP GET request at 'https://192.168.0.17:8443/rest/' for the unknown sitemap 'default'.
+2015-07-17 21:10:42.471 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 21:10:42.736 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 21:10:42.765 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.766 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.766 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Presence for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.768 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 21:10:42.776 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 21:10:42.789 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.789 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.789 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Light for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.790 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 21:10:42.795 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.795 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.796 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Projector for widget org.openhab.model.sitemap.Switch
+2015-07-17 21:10:42.796 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 21:10:42.819 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.820 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.820 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Temperature for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.821 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.821 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.822 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Humidity for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.822 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Date for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.822 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Date for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.822 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Date for widget org.openhab.model.sitemap.Text
+2015-07-17 21:10:42.823 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Music for widget org.openhab.model.sitemap.Selection
+2015-07-17 21:10:42.823 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Music for widget org.openhab.model.sitemap.Selection
+2015-07-17 21:10:42.823 [ERROR] [o.u.i.items.ItemUIRegistryImpl] - Cannot retrieve item Music for widget org.openhab.model.sitemap.Selection
+2015-07-17 21:10:42.989 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 21:10:43.179 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 21:10:43.191 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 21:10:46.800 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 21:10:47.056 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 21:10:47.085 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 21:10:47.113 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 21:10:48.011 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 21:10:50.062 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 21:10:53.330 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 21:10:55.357 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 21:12:59.056 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 21:14:05.413 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 21:14:09.438 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 21:14:52.877 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 21:14:53.753 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 21:14:53.786 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 21:14:55.400 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 21:15:03.480 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 21:15:03.662 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 21:15:03.683 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 21:15:03.691 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 21:15:03.700 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 21:15:03.706 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 21:15:03.769 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 21:15:03.886 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 21:15:04.215 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 21:15:08.070 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 21:15:08.089 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 21:15:08.206 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 21:15:08.236 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 21:15:09.281 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 21:15:11.217 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 21:15:13.940 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-17 21:18:14.163 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.rules'
+2015-07-17 21:19:14.217 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.rules'
+2015-07-17 21:19:45.346 [WARN ] [org.eclipse.jetty.io.nio      ] - javax.net.ssl.SSLException: Inbound closed before receiving peer's close_notify: possible truncation attack?
+2015-07-17 21:22:04.338 [INFO ] [c.internal.ModelRepositoryImpl] - Refreshing model 'default.rules'
+2015-07-17 21:22:08.528 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-17 21:22:12.551 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI
+2015-07-17 21:22:21.614 [INFO ] [.o.core.internal.CoreActivator] - openHAB runtime has been started (v1.7.0).
+2015-07-17 21:22:22.335 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - mDNS service has been started
+2015-07-17 21:22:22.369 [INFO ] [o.o.i.s.i.DiscoveryServiceImpl] - Service Discovery initialization completed.
+2015-07-17 21:22:24.035 [INFO ] [penhab.io.rest.RESTApplication] - Started REST API at /rest
+2015-07-17 21:22:32.157 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.sitemap'
+2015-07-17 21:22:32.404 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'db4o.persist'
+2015-07-17 21:22:32.430 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'exec.persist'
+2015-07-17 21:22:32.447 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'logging.persist'
+2015-07-17 21:22:32.458 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'myopenhab.persist'
+2015-07-17 21:22:32.487 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'rrd4j.persist'
+2015-07-17 21:22:32.628 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.script'
+2015-07-17 21:22:32.721 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.items'
+2015-07-17 21:22:32.935 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Started Classic UI at /openhab.app
+2015-07-17 21:22:36.739 [INFO ] [.service.AbstractActiveService] - NTP Refresh Service has been started
+2015-07-17 21:22:36.805 [INFO ] [.service.AbstractActiveService] - HTTP Refresh Service has been started
+2015-07-17 21:22:36.909 [ERROR] [io.gpio.internal.GPIOActivator] - No supported operating system was found, GPIO service won't be available
+2015-07-17 21:22:36.913 [INFO ] [o.o.b.w.i.common.WeatherConfig] - LocationConfig[providerName=YAHOO,language=en,updateInterval=10,latitude=45.419759,longitude=-75.67941,locationId=school,name=<null>]
+2015-07-17 21:22:38.238 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-17 21:22:39.924 [INFO ] [.o.b.w.i.s.WeatherJobScheduler] - Starting and scheduling weatherJob-school with interval of 10 minutes
+2015-07-17 21:22:42.795 [INFO ] [c.internal.ModelRepositoryImpl] - Loading model 'default.rules'
+2015-07-18 00:00:03.369 [ERROR] [.myopenhab.internal.MyOHClient] - Socket.IO error: com.github.nkzawa.engineio.client.EngineIOException: xhr poll error
+2015-07-18 00:00:03.373 [INFO ] [.myopenhab.internal.MyOHClient] - Disconnected from my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-18 00:00:21.594 [INFO ] [.myopenhab.internal.MyOHClient] - Connected to my.openHAB service (UUID = c11a46d7-9a3d-4ecb-8df6-59ec3e27284d, base URL = http://localhost:8080)
+2015-07-18 01:15:14.509 [INFO ] [penhab.io.rest.RESTApplication] - Stopped REST API
+2015-07-18 01:15:18.529 [INFO ] [.o.u.w.i.servlet.WebAppServlet] - Stopped Classic UI

@@ -1,3 +1,14 @@
+rule Enter
+when
+	Item Presence changed to ON
+then
+	Thread::sleep(1000)
+	Light.send(ON)
+	Projector.send(ON)
+	sendSms("+16132616094", "Makerspace is now open.")
+	sendNotification("lchen156@uottawa.ca", "Makerspace is now open.")
+end
+
 rule Away
 when
 	Item Presence changed to OFF
@@ -5,6 +16,8 @@ then
 	Thread::sleep(1000)
 	Light.send(OFF)
 	Projector.send(OFF)
+	sendSms("+16132616094", "Makerspace is now closed.")
+	sendNotification("lchen156@uottawa.ca", "Makerspace is now closed.")
 end
 
 rule "Voice control"

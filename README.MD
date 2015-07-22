@@ -2,7 +2,7 @@ Makerthings Server
 =======================
 
 ### Introduction
-The Makerthings server is based on openHAB and all documentation of openHAB is applied. Makerthings server runs on Raspberry Pi and connected to certain items, e.g. RGB strip, power switch, etc, to control them. You can download  Makerthings app to connected with your server, or, open website [http://137.122.51.94:8080/openhab.app](http://137.122.51.94:8080/openhab.app) (only available when you are in University of Ottawa school network)
+The Makerthings server is based on openHAB and all documentation of openHAB is applied. Makerthings server runs on Raspberry Pi and connected to certain items, e.g. RGB strip, power switch, etc, to control them. You can download  [Makerthings app](https://play.google.com/store/apps/details?id=me.willowcheng.makerthings) to connect Makerthings server, or, open website [http://137.122.51.94:8080/openhab.app](http://137.122.51.94:8080/openhab.app) (only available when you are in University of Ottawa school network)
 
 ### Features
 - Integrate with GPIO binding for Raspberry Pi for controlling GPIO based items, e.g. RGB strip, power switch (check important settings in Raspberry Pi)

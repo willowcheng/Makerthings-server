@@ -29,12 +29,18 @@ The Makerthings server is based on openHAB and all documentation of openHAB is a
 5. Check [OpenHab Home](https://github.com/openhab/openhab/wiki) to get ideas of how those things connected and cooperate with each other
 6. For implementing binding, check [How To Implement A Binding](https://github.com/openhab/openhab/wiki/How-To-Implement-A-Binding). For advanced developers, checking [How To Implement An Action](https://github.com/openhab/openhab/wiki/How-To-Implement-An-Action)
 
-### Important Settings for Raspberry Pi
-1. Enable SPI and I2C support
-2. Unexport GPIO before starting server
+### Development in Raspberry Pi
+1. Raspberry Pi runs on Linux system can also run openHAB server. By default, Raspbian system is suggested, you can find the download and how to write image into SD card from [Download - Raspberry Pi](https://www.raspberrypi.org/downloads/)
+2. The easier way to develop server is downloading Linux version of openHAB designer, [Linux 64-bit](https://bintray.com/artifact/download/openhab/bin/distribution-1.7.0-designer-linux64bit.zip) | [Linux 32-bit](https://bintray.com/artifact/download/openhab/bin/distribution-1.7.0-designer-linux.zip)
+3. Use the same development method as Windows or Mac
+4. If you want to edit server in Windows/Mac and upload your files directly to Raspberry Pi. FTP tool is suggested and SSH should be enabled - [SSH (Secure Shell) - Raspberry Pi](https://www.raspberrypi.org/documentation/remote-access/ssh/), [FileZilla](https://filezilla-project.org) is free for Windows/Mac. Alternatively, using Github to keep your work between laptop and Raspberry Pi is even better. (Push work to Github and pull changes to Raspberry Pi)
+5. Use terminal to navigate to OpenHab server directory and use `sudo sh start.sh` to run your server
+6. Enable SPI and I2C support for using GPIO
+7. Unexport GPIO before starting server, a more intelligent way is using [WiringPi](http://wiringpi.com/the-gpio-utility/) in terminal
   - `cd /sys/class/gpio`
   - `sudo echo 17 > unexport` (17 may be altered depending on which pin number will be used)
-3. Install native JNA library via `apt-get install libjna-java`
+8. Install native JNA library via `apt-get install libjna-java`
+9. If you want to run server automatically once you start Raspberry Pi, Check [Linux OS X - openhab](https://github.com/openhab/openhab/wiki/Linux---OS-X)
 
 ---------------
 Liu Cheng, University of Ottawa
